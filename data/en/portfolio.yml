@@ -1,0 +1,16 @@
+enable  : true
+
+title   : WORK SHOWCASE.
+
+filtermenu :
+  - name      : Photography
+    category  : photography
+
+ 
+
+item   :
+  - title : AirBnB Postcard
+    image : images/portfolio/portfolio-1.jpg
+    category  : photography
+
+ 

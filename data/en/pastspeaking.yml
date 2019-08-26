@@ -1,0 +1,739 @@
+enable : true
+topTitle: Speaking Schedule
+title   : Past speaking appearances
+item    :
+  - Title     : HealthIMPACT Midwest 2017
+    Place     : United States, Chicago
+    Date      : Nov 9, 2017 
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : https://www.purposeeventgroup.com/events/healthimpact-midwest-2017
+
+  - Title     : Healthcare IT Leadership Summit
+    Place     : United States, Atlanta
+    Date      : Nov 7, 2017 
+    Logo      : /images/speaking/HILS.png
+    Link      : lanyrd.com/2017/healthcare-it-leadership-summit/
+
+  - Title     : Digital Quality Summit
+    Place     : United States, Washington
+    Date      : Nov 1, 2017 
+    Logo      : /images/speaking/DQS.png
+    Link      : http://lanyrd.com/2017/digital-quality-summit/
+
+  - Title     : Global Cyber Security and Data Protection Summit
+    Place     : Netherlands, Amsterdam
+    Date      : Oct 5, 2017 
+    Logo      : /images/speaking/GCS.png
+    Link      : http://lanyrd.com/2017/global-cyber-security-and-data-protection-summit/
+
+  - Title     : HealthIMPACT West 2017
+    Place     : United States, Santa Clara
+    Date      : Oct 1, 2017 
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : lanyrd.com/2017/healthimpact-west-2/
+
+  - Title     : International Conference of Medical Device and Technology (iMEDiTEC 2017) 
+    Place     : Malaysia, Johor Baharu
+    Date      : Sep 6, 2017 
+    Logo      : /images/speaking/imed.png
+    Link      : http://www.utm.my/imeditec2017/
+
+  - Title     : Health INSIGHTS 2017 
+    Place     : United States, Arlington
+    Date      : Jul 20, 2017
+    Logo      : /images/speaking/HI.png
+    Link      : https://www.healthinsights17.com/
+
+  - Title     : Technologies and Tactics Transforming Long-term Care Conference
+    Place     : United States, Washington
+    Date      : Jun 30, 2017
+    Logo      : /images/speaking/TT.png
+    Link      : https://www.regonline.com/builder/site/Default.aspx?EventID=1984694
+
+  - Title     : NIST Federal Computer Security Managers’ Forum (FCSM)
+    Place     : United States, Gaithersburg
+    Date      : Jun 20, 2017
+    Logo      : /images/speaking/NIST.png
+    Link      : https://www.nist.gov/news-events/events/2017/06/federal-computer-security-managers-forum
+  - Title     : Society of Nuclear Medicine and Molecular Imaging (SNMMI) Annual Meeting
+    Place     : United States, Denver
+    Date      : Jun 10, 2017
+    Logo      : /images/speaking/SNMMI.png
+    Link      : http://www.snmmi.org/AM/
+
+  - Title     : AHIP Institute & Expo
+    Place     : United States, Austin
+    Date      : Jun 7, 2017
+    Logo      : /images/speaking/ahip-logo.png
+    Link      : https://www.ahip.org/events/instituteexpo/
+  - Title     : HealthIMPACT East 2017
+    Place     : United States, New York
+    Date      : Jun 5, 2017
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : https://www.healthimpacteast.com/
+  - Title     : 7th International Summit on the Future of Health Privacy
+    Place     : United States, Washington
+    Date      : Jun 1, 2017
+    Logo      : /images/speaking/7th-international-summit.png
+    Link      : http://lanyrd.com/2017/patient-privacy-rights/
+  - Title     : NHIA Annual Conference & Exposition 2017
+    Place     : United States, Orlando
+    Date      : May 22, 2017
+    Logo      : /images/speaking/nhia-logo.png
+    Link      : http://www.nhia.org/ac17/
+  - Title     : HealthIMPACT Southeast 2017 
+    Place     : United States, Orlando
+    Date      : May 4, 2017
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : http://www.hl7.org/events/fhir/summit/2017/04/
+  - Title     : HL7 Value-Based Care FHIR® Summit 
+    Place     : United States, Chicago
+    Date      : Apr 11, 2017
+    Logo      : /images/speaking/HL.png
+    Link      : http://www.hl7.org/events/fhir/summit/2017/04/
+  - Title     : HL7 Value-Based Care FHIR® Summit 
+    Place     : United States, Chicago
+    Date      : Apr 11, 2017
+    Logo      : /images/speaking/HL.png
+    Link      : http://www.hl7.org/events/fhir/summit/2017/04/
+  - Title     : 4th Annual Health IT Marketing & PR Conference 
+    Place     : United States, Las Vegas
+    Date      : Apr 5, 2017
+    Logo      : /images/speaking/hitmc.png
+    Link      : https://www.healthitmarketingconference.com/
+  - Title     : HealthIMPACT Southwest 2017 
+    Place     : United States, Houston
+    Date      : Apr 4, 2017
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : https://www.healthimpactsouthwest.com/
+  - Title     : 2017 State Healthcare IT Connect Summit 
+    Place     : United States, Baltimore
+    Date      : Mar 28, 2017
+    Logo      : /images/speaking/event.jpg
+    Link      : https://www.eventbrite.com/e/2017-state-healthcare-it-connect-summit-march-28-29-hilton-baltimore-inner-harbor-hotel-baltimore-md-tickets-26651850402
+  - Title     : HCCA 21st Annual Compliance Institute
+    Place     : United States, Washington
+    Date      : Mar 26, 2017
+    Logo      : /images/speaking/compliance-institue.png
+    Link      : www.compliance-institute.org 
+  - Title     : HL7 Partners in Interoperability Spring 2017
+    Place     : United States, Atlanta
+    Date      : Mar 21, 2017
+    Logo      : /images/speaking/HL.png
+    Link      : http://www.hl7.org/events/interoperability201703/
+  - Title     : 9th Annual Health Plan Marketing Summit
+    Place     : United States, Orlando
+    Date      : Mar 6, 2017
+    Logo      : /images/speaking/world-congress.png
+    Link      : https://www.worldcongress.com/events/HL17009
+      
+  - Title     : IBM World of Watson 2016 
+    Place     : United States, Las Vegas
+    Date      : Oct 24, 2016
+    Logo      : /images/speaking/IBM.png
+    Link      : href="http://www-01.ibm.com/software/events/wow/"
+  - Title     : HealthIMPACT Silicon Valley 
+    Place     : United States, San Francisco
+    Date      : Oct 21, 2016
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : http://purposeevents.com/
+
+  - Title     : TEDx Wilmington Salon @nemours 
+    Place     : Wilmington, United States
+    Date      : Oct 18, 2016
+    Logo      : /images/speaking/health2.0-sep-25-28.jpg
+    Link      : http://www.tedxwilmington.com/innovation-in-healthcare/
+
+  - Title     : NAACOS Fall 2016 
+    Place     : United States, Washington
+    Date      : Sep 28, 2016
+    Logo      : /images/speaking/naacos-sep-28-30.jpg
+    Link      : https://www.naacos.com/
+  - Title     : Health 2.0 10th Annual Fall Conference 
+    Place     : United States, Santa Clara
+    Date      : Sep 25, 2016
+    Logo      : /images/speaking/health2.0-sep-25-28.jpg
+    Link      : www.health2con.com/events/conferences/health-2-0-10th-annual-fall-conference-2-2/
+  - Title     : Pop Health Forum 
+    Place     : United States, Chicago
+    Date      : Sep 12, 2016
+    Logo      : /images/speaking/pophealthforum-sep-12-13.jpg
+    Link      : https://www.pophealthforum.com/chicago/2017?utm_source=lanyrd&utm_medium=calendar&utm_term=email_link&utm_campaign=general
+  - Title     : 2016 Blogging While Brown Conference 
+    Place     : United States, Washington
+    Date      : Jul 15, 2016
+    Logo      : /images/speaking/july-15-17.jpg
+    Link      : https://www.eventbrite.com/e/2016-blogging-while-brown-conference-tickets-19325172110?ref=ebapi
+  - Title     : HL7 Quality on FHIR 
+    Place     : United States, Chicago
+    Date      : Jul 11, 2016
+    Logo      : /images/speaking/hl7-quality-onfhir-july11-12.jpg
+    Link      : http://www.lanyrd.com/2016/hl7-quality-on-fhir/
+ 
+
+  - Title     : OSEHRA Open Source Summit 2016
+    Place     : United States, Bethesda
+    Date      : Jun 27, 2016
+    Logo      : /images/speaking/OSEHRA-Open-Source-Summit-2016-june27-29.jpg
+    Link      : http://www.cvent.com/events/2019-osehra-open-source-summit/event-summary-642cc099de1c4ad397c613c20f82bc61.aspx
+  - Title     : AHIP Institute & Expo 
+    Place     : United States, Las Vegas
+    Date      : Jun 15, 2016
+    Logo      : /images/speaking/ahip-institute-expo-june15-17-1.jpg
+    Link      : https://www.ahip.org/events/instituteexpo/
+  - Title     : HealthIMPACT West 
+    Place     : United States, Los Angeles
+    Date      : Jun 8, 2016
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : https://www.purposeevents.com/
+  - Title     : HealthIMPACT East
+    Place     : United States, New York
+    Date      : May 17, 2016
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : https://www.purposeevents.com/events/healthimpact-east
+  - Title     : Direct-to-Consumer Health Care Marketing Summit
+    Place     : United States, Chicago
+    Date      : May 2, 2016
+    Logo      : /images/speaking/Direct-to-Consumer-Health-Care-Marketing-Summit.jpg
+    Link      : http://www.direct2consumerhealthmarketing.com/
+  - Title     : Ministry of Health & HIMSS Middle East Conference & Exhibition 
+    Place     : Saudi Arabia, Riyadh
+    Date      : Apr 26, 2016
+    Logo      : /images/speaking/ministry-of-health.jpg
+    Link      : https://www.eiseverywhere.com/ehome/145406/HIMSSME16/
+  - Title     : World Orphan Drug Congress USA 2016 
+    Place     : United States, Washington
+    Date      : Apr 19, 2016
+    Logo      : /images/speaking/orphardrug.jpg
+    Link      : https://secure.terrapinn.com/V5/step1.aspx?E=10155&&utm_source=Lanyrd&utm_medium=Listing&utm_campaign=LNDListing
+  - Title     : MedCity INVEST  
+    Place     : United States, Chicago
+    Date      : Apr 12, 2016
+    Logo      : /images/speaking/Invest.jpg
+    Link      : https://events.medcitynews.com/invest/
+  - Title     : Oracle Industry Connect 2016 
+    Place     : United States, Orlando
+    Date      : Apr 12, 2016
+    Logo      : /images/speaking/OracleIndustryConnect.jpg
+    Link      : https://www.oracle.com/oracleindustryconnect/
+  - Title     : Health IT Marketing & PR Conference 
+    Place     : United States, Atlanta
+    Date      : Apr 6, 2016
+    Logo      : /images/speaking/hitmc.png
+    Link      : https://www.healthitmarketingconference.com/
+  - Title     : HxRefactored  
+    Place     : United States, Boston
+    Date      : Apr 5, 2016
+    Logo      : /images/speaking/hxr.jpg
+    Link      : http://www.hxrefactored.com/
+  - Title     : HXR Health Experience Refactored Conference 2016  
+    Place     : United States, Boston
+    Date      : Apr 5, 2016
+    Logo      : /images/speaking/hxr.jpg
+    Link      : http://www.hxrefactored.com/
+  - Title     : HealthIMPACT Southwest  
+    Place     : United States, Houston
+    Date      : Mar 24, 2016
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : https://www.purposeevents.com/events/healthimpact-southwest-2016
+  - Title     : HIMSS 2016 Annual Conference & Exhibition 
+    Place     : United States, Las Vegas
+    Date      : Feb 29, 2016
+    Logo      : /images/speaking/himss16.png
+    Link      : https://www.himssconference.org/
+  - Title     : HealthIMPACT Southeast 
+    Place     : United States, Coral Gables
+    Date      : Jan 22, 2016
+    Logo      : /images/speaking/purpose-events-1.png
+    Link      : https://www.purposeevents.com/events/healthimpact-southeast-3
+  - Title     : American Muslims Health Professionals (AMHP) Benefit Dinner 
+    Place     : United States, Falls Church
+    Date      : Nov 14, 2015
+    Logo      : /images/speaking/amhp.png
+    Link      : https://amhp.us/benefit-dinner
+  - Title     : Health IT Leadership Summit 
+    Place     : United States, Atlanta
+    Date      : Nov 3, 2015
+    Logo      : /images/speaking/health-it-leadership-summit-logo.png
+    Link      : http://healthitleadershipsummit.com/TNpZR/
+  - Title     : Federal Leadership in Asset Management Policy Forum 
+    Place     : United States, Washington
+    Date      : Sep 17, 2015
+    Logo      : /images/speaking/asset-leadership-network.png
+    Link      : https://www.purposeevents.com/events/healthimpact-midwest-2016
+  - Title     : Health 2.0 9th Annual Fall Conference 
+    Place     : United States, Santa Clara
+    Date      : Oct 5, 2015
+    Logo      : /images/speaking/2015-annual-fallconference.png
+    Link      : https://health2con.com/conference/health-2-0-9th-annual-fall-conference-2015/
+  - Title     : HealthIMPACT Midwest 
+    Place     : United States, Chicago
+    Date      : Sep 17, 2015
+    Logo      : /images/speaking/7-8IMN-Copy.gif
+    Link      : https://www.purposeevents.com/events/healthimpact-midwest-2016
+  - Title     : Smart VAR Healthcare Summit 
+    Place     : United States, Dallas
+    Date      : Aug 11, 2015
+    Logo      : /images/speaking/smart-var-healthcare-summit.png
+    Link      : https://www.signup4.net/Public/ap.aspx?EID=20152659E
+  - Title     : OSEHRA Open Source Summit 2015 
+    Place     : United States, Bethesda
+    Date      : Jul 29, 2015
+    Logo      : /images/speaking/osehra.png
+    Link      : http://www.cvent.com/events/2015-osehra-open-source-summit/archived-88f6f5d7f65b4d878ceacb7e62407673.aspx
+  - Title     : HealthIMPACT West 
+    Place     : United States, Santa Monica
+    Date      : Jun 10, 2015
+    Logo      : /images/speaking/purpose-events.png
+    Link      : https://www.purposeevents.com/events/healthimpact-san-francisco
+  - Title     : 2015 Health Privacy Summit 
+    Place     : United States, Washington
+    Date      : Jun 3, 2015
+    Logo      : /images/speaking/health-privacy-summit.png
+    Link      : http://patientprivacyrights.org/2015-health-privacy-summit/
+  - Title     : Cleveland Clinic’s 6th Annual Patient Experience, Empathy & Innovation Summit 
+    Place     : United States, Cleveland
+    Date      : May 17, 2015
+    Logo      : /images/speaking/cleveland.png
+    Link      : http://www.empathyandinnovation.com/Home.aspx#.Voo1zFLkAqA
+  - Title     : HealthIMPACT Southwest 
+    Place     : United States, Houston
+    Date      : May 7, 2015
+    Logo      : /images/speaking/purpose-events.png
+    Link      : https://www.purposeevents.com/events/healthimpact-southwest-2016
+  - Title     : Healthcare IT Marketing & Public Relations (PR) Conference & Exhibition 
+    Place     : United States, Las Vegas
+    Date      : May 7, 2015
+    Logo      : /images/speaking/hitmc.png
+    Link      : https://www.hitmc.com/
+  - Title     : HIMSS 2015 Annual Conference & Exhibition
+    Place     : United States, Chicago
+    Date      : Apr 12, 2015
+    Logo      : /images/speaking/himss16.png
+    Link      : https://www.himssconference.org/
+  - Title     : HxRefactored
+    Place     : United States, Boston
+    Date      : Apr 1, 2015
+    Logo      : /images/speaking/5-HxRefactored.png
+    Link      : http://www.hxrefactored.com/
+  - Title     : HealthIMPACT East
+    Place     : United States, New York
+    Date      : Feb 27, 2015
+    Logo      : /images/speaking/purpose-events.png
+    Link      : https://www.purposeevents.com/events/healthimpact-east
+  - Title     : ASQ IEEE SSQ Washington Chapters – Injecting Security into the SDLC
+    Place     : United States, Silver Spring
+    Date      : Feb 24, 2015
+    Logo      : /images/speaking/asq.png
+    Link      : www.asq509.org/ht/d/sp/i/2499/pid/2499
+  - Title     : MD&M West- Medical Design & Manufacturing Conference and Exhibition
+    Place     : United States, Anaheim
+    Date      : Feb 10, 2015
+    Logo      : /images/speaking/mdm-west.png
+    Link      : https://mdmwest.mddionline.com/
+  - Title     : HealthIMPACT Southest
+    Place     : United States, Tampa
+    Date      : Jan 23, 2015
+    Logo      : /images/speaking/purpose-events.png
+    Link      : https://www.purposeevents.com/
+  - Title     : Next Generation Intelligence, Surveillance, Reconaissance (ISR)
+    Place     : United States, Washington
+    Date      : Dec 11, 2014
+    Logo      : /images/speaking/next-gen-isr.png
+    Link      : http://nextgenerationisr.com/
+  - Title     : AMIA 2014
+    Place     : United States, Washington
+    Date      : Nov 16, 2014
+    Logo      : /images/speaking/amia.png
+    Link      : https://www.amia.org/amia2014
+  - Title     : Partners Healthcare Connected Health Symposium 2014
+    Place     : United States, Boston
+    Date      : Oct 23, 2014
+    Logo      : /images/speaking/connected-health.png
+    Link      : https://connectedhealth.partners.org/
+  - Title     : SureScripts Customer Forum 2014
+    Place     : United States, Bloomington
+    Date      : Oct 6, 2014
+    Logo      : /images/speaking/surescripts.png
+    Link      : www.surescriptsforum.com/event_page.php?id=594025&p=904
+  - Title     : Digital Health Summit Turkey 2014
+    Place     : Turkey
+    Date      : Sep 17, 2014
+    Logo      : /images/speaking/digital-health-summit-turkey.png
+    Link      : www.dhsturkey.com
+  - Title     : HealthIMPACT Midwest
+    Place     : United States, Chicago
+    Date      : Sep 8, 2014
+    Logo      : /images/speaking/purpose-events.png
+    Link      : https://www.purposeevents.com/events/healthimpact-midwest-2016
+  - Title     : OSEHRA Open Source Summit 2014
+    Place     : United States, Bethesda
+    Date      : Sep 3, 2014
+    Logo      : /images/speaking/osehra.png
+    Link      : http://www.cvent.com/events/2014-osehra-open-source-ehr-summit-global-collaboration-in-healthcare-it/archived-4cca0458427a48a3bd460ab492483f40.aspx
+  - Title     : IMN’s HealthIMPACT West
+    Place     : Santa Monica in United States
+    Date      : Jun 25, 2014
+    Logo      : /images/speaking/7-8IMN-Copy.gif
+    Link      : https://www.purposeevents.com/ 
+  - Title     : IMN’s HealthIMPACT West
+    Place     : United States, Santa Monica
+    Date      : Jun 25, 2014
+    Logo      : /images/speaking/purpose-events.png
+    Link      : https://www.purposeevents.com/events/healthimpact-san-francisco
+  - Title     : Health Care Cloud Coalition (HC3) Kick Off
+    Place     : Falls Church in United States
+    Date      : Jun 19, 2014
+    Logo      : /images/speaking/1-Health-Care-Cloud-Coalition.png
+    Link      : https://www.eventbrite.com/e/health-care-cloud-coalition-hc3-kick-off-tickets-11031047159?ref=ebapi
+  - Title     : Health Care Cloud Coalition (HC3) Kick Off
+    Place     : United States, Falls Church
+    Date      : Jun 19, 2014
+    Logo      : /images/speaking/1-Health-Care-Cloud-Coalition.png
+    Link      : https://www.eventbrite.com/e/health-care-cloud-coalition-hc3-kick-off-tickets-11031047159?ref=ebapi
+  - Title     : HIMSS Privacy & Security Forum
+    Place     : San Diego In United States
+    Date      : Jun 16, 2014
+    Logo      : /images/speaking/2-HIMSS-Privacy-Security-Forum.png
+    Link      : https://www.healthcaresecurityforum.com/boston/2019
+  - Title     : HIMSS Privacy & Security Forum 
+    Place     : United States, San Diego
+    Date      : Jun 16, 2014
+    Logo      : /images/speaking/privacy-security-forum.png
+    Link      : https://www.healthcaresecurityforum.com/boston/2019
+  - Title     : The 4th International Summit on the Future of Health Privacy 
+    Place     : Washington in United States
+    Date      : Jun 4, 2014
+    Logo      : /images/speaking/3-The-4th-International-Summit-on-the-Future-of-Health-Privacy.png
+    Link      : http://patientprivacyrights.org/2014-health-privacy-summit-details/
+  - Title     : The 4th International Summit on the Future of Health Privacy  
+    Place     : United States, Washington
+    Date      : Jun 4, 2014
+    Logo      : /images/speaking/health-privacy-summit.png
+    Link      : http://patientprivacyrights.org/2014-health-privacy-summit-details/
+  - Title     : Health Datapalooza 2014  
+    Place     : District Of Columbia in United States
+    Date      : Jun 1, 2014
+    Logo      : /images/speaking/HDP1.png
+    Link      : https://www.academyhealth.org/events/site/health-datapalooza
+  - Title     : MIT Sloan CIO Symposium  
+    Place     : Cambridge in United States
+    Date      : May 21, 2014
+    Logo      : /images/speaking/MIT-Sloan-CIO-Symposium.png
+    Link      : http://www.cvent.com/events/2014-mit-sloan-cio-symposium/event-summary-599d8c57f62f4da189c80f158694cd84.aspx
+  - Title     : MIT Sloan CIO Symposium  
+    Place     : United States, Cambridge
+    Date      : May 21, 2014
+    Logo      : /images/speaking/MIT-Sloan-CIO-Symposium.png
+    Link      : https://www.mitcio.com/
+  - Title     : HxRefactored   
+    Place     : Brooklyn in United States
+    Date      : May 13, 2014
+    Logo      : /images/speaking/5-HxRefactored.png
+    Link      : https://health2con.com/conference/hxr-2016/
+  - Title     : Health:Refactored   
+    Place     : Mountain View in United States
+    Date      : May 13, 2014
+    Logo      : /images/speaking/25-Health_Refactored.png
+    Link      : https://health2con.com/events/conferences/health-refactored/
+  - Title     : HxRefactored   
+    Place     : United States, Brooklyn
+    Date      : May 13, 2014
+    Logo      : /images/speaking/5-HxRefactored.png
+    Link      : http://www.hxrefactored.com/
+  - Title     : Smart VAR Healthcare Summit   
+    Place     : United States, New Brunswick
+    Date      : May 6, 2014
+    Logo      : /images/speaking/smart-var-healthcare-summit.png
+    Link      : https://www.signup4.net/public/ap.aspx?EID=20142453E&OID=50
+  - Title     : 2nd Annual HealthIMPACT East   
+    Place     : United States, Manhattan
+    Date      : Apr 30, 2014
+    Logo      : /images/speaking/IMN.gif
+    Link      : https://www.imn.org/investment-management/conference/Health-Impact-East/Agenda.html
+  - Title     : 2nd Annual HealthIMPACT East  
+    Place     : United States, Manhattan
+    Date      : Apr 30, 2014
+    Logo      : /images/speaking/purpose-events.png
+    Link      : https://www.purposeevents.com/events/healthimpact-east
+  - Title     : IMN’s HealthIMPACT Southwest  
+    Place     : Houston in United States
+    Date      : Apr 3, 2014
+    Logo      : /images/speaking/7-8IMN-Copy.gif
+    Link      : https://www.purposeevents.com/
+  - Title     : IMN’s HealthIMPACT Southwest 
+    Place     : United States, Houston
+    Date      : Apr 3, 2014
+    Logo      : /images/speaking/purpose-events.png
+    Link      : https://www.purposeevents.com/events/healthimpact-southwest-2016
+  - Title     : HIMSS 2014 
+    Place     : Orlando in United States
+    Date      : Feb 23, 2014
+    Logo      : /images/speaking/9-HIMSS-2014.png
+    Link      : https://www.himssconference.org/
+  - Title     : HIMSS 2014
+    Place     : United States, Orlando
+    Date      : Feb 23, 2014
+    Logo      : /images/speaking/asset-leadership-network.png
+    Link      : https://www.himssconference.org/
+  - Title     : Medical Design & Manufacturing West
+    Place     : Anaheim in United States
+    Date      : Feb 13, 2014
+    Logo      : /images/speaking/10-Medical-Design-Manufacturing-West.png
+    Link      : https://mdmwest.mddionline.com/?cid=cl.tsm.medi.tsnr.2014.ana.mdmw.evvnt
+  - Title     : Medical Design & Manufacturing West
+    Place     : United States, Anaheim
+    Date      : Feb 11, 2014
+    Logo      : /images/speaking/mdm-west.png
+    Link      : http://b.mdmwest.mddionline.com/?cid=cl.tsm.medi.tsnr.2014.ana.mdmw.evvnt
+  - Title     : Healthcare Facilities Life-Cycle Workshop
+    Place     : Washington in United States
+    Date      : Jan 6, 2014
+    Logo      : /images/speaking/12-Healthcare-Facilities-Life-Cycle-Workshop-Copy.png
+    Link      : https://www.nibs.org/page/conference14_hc
+  - Title     : Healthcare Facilities Life-Cycle Workshop
+    Place     : United States, Washington
+    Date      : Jan 6, 2014
+    Logo      : /images/speaking/38-Building-Innovation-2013.png
+    Link      : https://www.nibs.org/page/conference14_hc
+  - Title     : Fifth Annual Medical Device Connectivity Conference & Exhibition 
+    Place     : Herndon in United States
+    Date      : Nov 21, 2013
+    Logo      : /images/speaking/13-Fifth-Annual-Medical-Device-Connectivity-Conference-Exhibition.png
+    Link      : http://tcbi.org/mdc2013/
+  - Title     : The Promise of Cloud Computing in Healthcare 
+    Place     : Philadelphia in United States
+    Date      : Nov 19, 2013
+    Logo      : /images/speaking/14-The-Promise-of-Cloud-Computing-in-Healthcare.png
+    Link      : https://www.medtechmedia.com/files/events/executive_series/verizon/dinner/verizon_executive_briefing_reg_nov2013.html
+  - Title     : Health IT Leadership Summit 
+    Place     : Atlanta in United states
+    Date      : Atlanta in United states
+    Logo      : /images/speaking/health-it-leadership-summit-logo.png
+    Link      : http://healthitleadershipsummit.com/
+  - Title     : Health Information Management Summit
+    Place     : 
+    Date      : Oct 30, 2013
+    Logo      : /images/speaking/15-Health-Information-Management-Summit.png
+    Link      : https://www.brighttalk.com/summit/healthinformationmanagement
+  - Title     : 10 Questions to Ask an EHR Vendor During a Demo 
+    Place     : Washington in United States
+    Date      : Oct 23, 2013
+    Logo      : /images/speaking/17-Questions-to-Ask-an-EHR-Vendor-During-a-Dem.png
+    Link      : https://www.youtube.com/watch?v=hQVfSxgS-2g
+  - Title     : 10 Questions to Ask an EHR Vendor During a Demo 
+    Place     : Washington in United States
+    Date      : Oct 23, 2013
+    Logo      : /images/speaking/17-Questions-to-Ask-an-EHR-Vendor-During-a-Dem.png
+    Link      : https://www.youtube.com/watch?v=hQVfSxgS-2g
+  - Title     : O’Reilly Strata Rx Conference 
+    Place     : Boston in United States
+    Date      : Sep 25, 2013
+    Logo      : /images/speaking/18-O_Reilly-Strata-Rx-Conference-Copy.png
+    Link      : https://conferences.oreilly.com/strata/rx2013
+  - Title     : MUCMD13:- Meaningful Use of Complex Medical Data
+    Place     : Los Angeles in United States
+    Date      : Aug 16, 2013
+    Logo      : /images/speaking/20-MUCMD13_-Meaningful-Use-of-Complex-Medical-Data.png
+    Link      : http://mucmd.org/
+ 
+  - Title     : Application Management in the Mobile Era
+    Place     : Tysons Corner in United States
+    Date      : Jul 16, 2013
+    Logo      : /images/speaking/next-generation-enterprise.png
+    Link      : https://www.eiseverywhere.com//ehome/63369/119622/
+  - Title     : Tenth Annual Healthcare Unbound Conference & Exhibition
+    Place     : Denver in United States
+    Date      : Jul 11, 2013
+    Logo      : /images/speaking/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy.png
+    Link      : http://tcbi.org/hcub13/
+  - Title     : HIMSS Big Data and Healthcare Analytics Forum
+    Place     : Washington in United States
+    Date      : Jun 4, 2013
+    Logo      : /images/speaking/23-HIMSS-Big-Data-and-Healthcare-Analytics-Forum.png
+    Link      : https://www.bigdatahitforum.com/boston/2018
+  - Title     : MIT CIO Symposium
+    Place     : Cambridge in United States
+    Date      : May 22, 2013
+    Logo      : /images/speaking/24-MIT-Sloan-CIO-Symposium.png
+    Link      : https://www.mitcio.com/
+  - Title     : Legal and Business Guide to mHealth and Wireless Medical Technology
+    Place     : Washington in United States
+    Date      : Apr 29, 2013
+    Logo      : /images/speaking/27-Legal-and-Business-Guide-to-mHealth-and-Wireless-Medical-Technology.png
+    Link      : https://www.americanconference.com/mhealth
+  - Title     : NVTC Business and Enterprise Architecture Committee Event 
+    Place     : Fairfax in United States
+    Date      : Apr 2, 2013
+    Logo      : /images/speaking/29-NVTC-Business-and-Enterprise-Architecture-Committee-Event.png
+    Link      : https://www.nvtc.org/events/geteventinfo.php?event=ARCH-9
+  - Title     : CAMP Leadership Summit 
+    Place     : Princeton in United States
+    Date      : Mar 23, 2013
+    Logo      : /images/speaking/31-CAMP-Leadership-Summit.png
+    Link      : http://summit.camp-online.org/
+  - Title     : Trenton Computer Festival
+    Place     : Ewing in United States
+    Date      : Mar 16, 2013
+    Logo      : /images/speaking/32-Trenton-Computer-Festival.png
+    Link      : https://tcf-nj.org/
+  - Title     : HP Healthcare Mobility Tweetup at HIMSS
+    Place     : New Orleans in United States
+    Date      : Mar 4, 2013
+    Logo      : /images/speaking/33-HP-Healthcare-Mobility-Tweetup-at-HIMSS.png
+    Link      : https://www.eventbrite.com/e/hp-healthcare-mobility-tweet-up-at-himss-tickets-5332056324
+  - Title     : HIMSS 2013
+    Place     : New Orleans in United States
+    Date      : Mar 3, 2013
+    Logo      : /images/speaking/34-HIMSS-2013.png
+    Link      : https://www.himssconference.org/
+  - Title     : Enabling mHealth with Integrated Medial Devices 
+    Place     : 
+    Date      : Feb 7, 2013
+    Logo      : /images/speaking/35-Enabling-mHealth-with-Integrated-Medial-Devices.png
+    Link      : https://www.healthcareitnews.com/resource-central/webinars
+  - Title     : Liberating data to enable more intelligent health care systems 
+    Place     : 
+    Date      : Jan 22, 2013
+    Logo      : /images/speaking/36-Liberating-data-to-enable-more-intelligent-health-care-systems.png
+    Link      : https://searchhealthit.techtarget.com/healthitexchange/livechats/2012/12/21/orion-health-live-chat-liberating-data-to-enable-more-intelligent-health-care-systems-join-us-january-22nd-at-1pm-et/
+  - Title     : Do’s and Don’ts of Risk-Based Security Management In a Compliance-Driven Culture 
+    Place     : 
+    Date      : Jan 17, 2013
+    Logo      : /images/speaking/15-Health-Information-Management-Summit1.png
+    Link      : https://www.brighttalk.com/webcast/288/62133
+  - Title     : Building Innovation 2013  
+    Place     : Washington in United States
+    Date      : Jan 11, 2013
+    Logo      : /images/speaking/38-Building-Innovation-2013.png
+    Link      : https://www.nibs.org/page/conference
+  - Title     : Wireless Connectivity in Medical Devices- EAST
+    Place     : Boston in United States
+    Date      : Nov 27, 2012
+    Logo      : /images/speaking/qmed.png
+    Link      : https://www.wirelessmeddev.com/holding/
+  - Title     : Vanderbilt Health Care Conference (VHCC)
+    Place     : Nashville in United States
+    Date      : Nov 16, 2012
+    Logo      : /images/speaking/40-Vanderbilt-Health-Care-Conference.png
+    Link      : https://blogs.owen.vanderbilt.edu/vhcc/
+  - Title     : Electronic Signature and Records Association (ESRA) 2012 Annual Conference
+    Place     : Washington
+    Date      : Nov 14, 2012
+    Logo      : /images/speaking/esra-banner-new.png
+    Link      : https://www.regonline.com/builder/site/Default.aspx?eventid=1069323
+  - Title     : Medical Device Connectivity Conference
+    Place     : Boston in United States
+    Date      : Nov 1, 2012
+    Logo      : /images/speaking/70-Business-Intelligence-Analytics-for-Healthcare-Conference-Exhibition.png
+    Link      : http://tcbi.org/index.php?conference=4amdc2012
+  - Title     : Partners Healthcare Connected Health Symposium 2012
+    Place     : Boston in United States
+    Date      : Oct 25, 2012
+    Logo      : /images/speaking/42-Partners-Healthcare-Connected-Health-Symposium.png
+    Link      : http://symposium.connected-health.org/
+  - Title     : Strata Rx
+    Place     : San Francisco in United States
+    Date      : Oct 16, 2012
+    Logo      : /images/speaking/44-Making-Health-Data-Work.png
+    Link      : https://conferences.oreilly.com/strata/rx2012
+  - Title     : Military Electronic Health Records Conference
+    Place     : Washington in United States
+    Date      : Oct 11, 2012
+    Logo      : /images/speaking/45-Military-Electronic-Health-Records-Conference.png
+    Link      : http://www.militaryelectronichealthcare.com/
+  - Title     : Healthcare Unbound 2012 
+    Place     : San Francisco in United States
+    Date      : Jul 19, 2012
+    Logo      : /images/speaking/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy1.png
+    Link      : http://tcbi.org/hcub13/
+  - Title     : SCON 2012 
+    Place     : Portland in United States
+    Date      : Jul 16, 2012
+    Logo      : /images/speaking/46-Healthcare-Unbound-2012.png
+    Link      : https://conferences.oreilly.com/oscon/oscon2014
+  - Title     : IEEE International Conference on Cloud Computing 2012 
+    Place     : Honolulu in United States
+    Date      : Jun 24, 2012
+    Logo      : /images/speaking/48-IEEE-Engineering-in-Medicine-and-Biology-Society.png
+    Link      : http://www.thecloudcomputing.org/2012/
+  - Title     : Drupal Government Days 
+    Place     : Washington in United States
+    Date      : May 18, 2012
+    Logo      : /images/speaking/51-Drupal-Government-Days.png
+    Link      : https://drupalgovdays.org/
+  - Title     : 2nd Conference on Cloud Computing and Services Science 
+    Place     : Porto in Portugal
+    Date      : Apr 18, 2012
+    Logo      : /images/speaking/52-2nd-Conference-on-Cloud-Computing-and-Services-Science.png
+    Link      : http://closer.scitevents.org/
+  - Title     : Health IT Insight Summit 
+    Place     : Boston in United States
+    Date      : Mar 27, 2012
+    Logo      : /images/speaking/54-Health-IT-Insight-Summit.png
+    Link      : http://www.healthitinsight.com/
+  - Title     : HIMSS 2012 
+    Place     : Las Vegas in United States
+    Date      : Feb 20, 2012
+    Logo      : /images/speaking/55-HIMSS.png
+    Link      : https://www.himssconference.org/
+  - Title     : 2012 Android Builders Summit 
+    Place     : Redwood Shores in United States
+    Date      : Feb 13, 2012
+    Logo      : /images/speaking/56-2012-Android-Builders-Summit.png
+    Link      : https://events.linuxfoundation.org/events/android-builders-summit/
+  - Title     : GOSCON 2010 
+    Place     : Protland in United States
+    Date      : Oct 27, 2011
+    Logo      : /images/speaking/78-GOSCON-2010.png
+    Link      : http://shahidshah.com/speaking-schedule/
+  - Title     : Bisnow Future of Healthcare IT 
+    Place     : Alexandria in United States
+    Date      : Oct 26, 2011
+    Logo      : /images/speaking/62-Bisnow-Future-of-Healthcare-IT.png
+    Link      : http://www.cvent.com/events/future-of-health-it-vision-to-implementation/archived-31930e079f634506a76447ed9216ab70.aspx
+  - Title     : Storage Decisions Conference 2011  
+    Place     : New York in United States
+    Date      : Sep 19, 2011
+    Logo      : /images/speaking/65-Storage-Decisions-Conference-20111.png
+    Link      : http://storagedecisions.techtarget.com/2015/newyork/
+  - Title     : OSCON 2011  
+    Place     : Portland in United States
+    Date      : Jul 25, 2011
+    Logo      : /images/speaking/68-OSCON-2011.png
+    Link      : https://conferences.oreilly.com/oscon/oscon2014
+  - Title     : Business Intelligence & Analytics for Healthcare Conference & Exhibition  
+    Place     : San Diego in United States
+    Date      : Jul 11, 2011
+    Logo      : /images/speaking/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy2.png
+    Link      : http://www.tcbi.org/index.php?conference=bi2011
+  - Title     : NIH SBIR/STTR Conference 2011  
+    Place     : Bethesda in United States
+    Date      : Jun 22, 2011
+    Logo      : /images/speaking/71-NIH-SBIR.png
+    Link      : https://grants.nih.gov/grants/funding/SBIRConf2011/  
+  - Title     : Military Electronic Health Records Conference  
+    Place     : Washington in United States
+    Date      : Mar 22, 2011
+    Logo      : /images/speaking/72-Military-Electronic-Health-Records-Conference.png
+    Link      : https://ttcus.com/  
+  - Title     : NJAMHAA Annual Conference 2011  
+    Place     : Orange in United States
+    Date      : Mar 9, 2011
+    Logo      : /images/speaking/73-NJAMHAA-Annual-Conference-2011-Copy.png
+    Link      : https://www.njamhaa.org/   
+  - Title     : HIMSS11 
+    Place     : Orlando in United States
+    Date      : Feb 20, 2011
+    Logo      : /images/speaking/76-HIMSS11.png
+    Link      : https://www.himssconference.org/ 
+  - Title     : mHealth Summit 2010 
+    Place     : Washington in United States
+    Date      : Nov 8, 2010
+    Logo      : /images/speaking/77-mHealth-Summit-2010.png
+    Link      : https://www.himsseuropeconference.eu/helsinki/2019 
+  - Title     : Virginia Conference on Health Information Technology 
+    Place     : Tysons Corner in United States
+    Date      : May 18, 2009
+    Logo      : /images/speaking/80-Virginia-Conference-on-Health-Information-Technology.png
+    Link      : http://www.linkedin.com/groups/Virginia-Conference-on-Health-Information-1964437/about 

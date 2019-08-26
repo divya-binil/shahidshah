@@ -1,0 +1,19 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.conference }}
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<div class="container">
+  <div class="title-page"><h2>Conference</h2></div>
+  {{ range .item }} 
+  {{ "<!-- testimonial single -->" | safeHTML }}  
+    <div class="responsive">
+      <div class="gallery">
+        <a target="_blank" href="{{ .image }}">
+          <img class="image-size-1" src="{{ .link }}" alt="Image" >
+        </a>
+      </div>
+    </div>
+  {{ end }}   
+  <div class="clearfix"></div>
+</div>
+{{ end }}   
+
