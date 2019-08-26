@@ -1,3 +1,4 @@
+baseURL = "https://goofy-saha-daaf8c.netlify.com/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
