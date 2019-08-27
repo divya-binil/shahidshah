@@ -3,7 +3,7 @@ title: Who’s Shahid N. Shah and what is this blog about?
 author: Shahid Shah
 type: post
 url: /2003/12/24/whos-shahid-n-shah-and-whats-this-blog-about/
-date: 2003-12-24T13:31:19.000Z
+date: 2003-12-25T13:31:00.000Z
 categories:
   - Shahid Shah Architecture &amp; Engineering Blog
 ---
