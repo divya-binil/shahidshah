@@ -1,12 +1,11 @@
 ---
-title: Who’s Shahid N. Shah and what’s this blog about?
+title: Who’s Shahid  Shah and what’s this blog about?
 author: Shahid Shah
 type: post
-date: 2003-12-24T13:31:19+00:00
 url: /2003/12/24/whos-shahid-n-shah-and-whats-this-blog-about/
+date: 2003-12-24T13:31:19.000Z
 categories:
-  - 'Shahid Shah Architecture &amp; Engineering Blog'
-
+  - Shahid Shah Architecture &amp; Engineering Blog
 ---
 I am the founder and CEO of [Netspective Communications LLC][1] and an expert software engineer, systems architect, and technology evangelist. This blog is about my personal opinions on software development, the state of software engineering practice, and other things I find interesting.
   
