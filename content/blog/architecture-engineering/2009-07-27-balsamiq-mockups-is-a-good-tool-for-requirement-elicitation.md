@@ -1,9 +1,9 @@
 ---
-title: Balsamiq Mockups is a good tool for requirement elicitationee
-author: Shahid Shahee
+title: Balsamiq Mockups is a good tool for requirement elicitation
+author: Shahid Shah
 type: post
-url: /2009/07/27/balsamiq-mockups-is-a-good-tool-for-requirement-elicitationee/
-date: 2009-07-28T17:17:00.000Z
+url: /2009/07/27/balsamiq-mockups-is-a-good-tool-for-requirement-elicitation/
+date: 2009-07-27T17:17:00.000Z
 categories:
   - Shahid Shah Architecture &amp; Engineering Blog
 ---
