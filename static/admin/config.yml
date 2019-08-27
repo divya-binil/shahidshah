@@ -17,7 +17,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "text" , required: false}         
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+  - name: "architecture" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Architecture & Engineering" # Used in the UI, ie.: "New Post"
     folder: "content/blog/architecture-engineering" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
