@@ -29,8 +29,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "text" , required: false}         
       - {label: "Body", name: "body", widget: "markdown"}
-   - name: "sections"
-     label: "Sections"
+   - name: "test"
+     label: "test"
     files:
       - file: "data/intellectualproperty.yml"
         label: "Intellectual property"
