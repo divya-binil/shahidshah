@@ -36,6 +36,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Intellectual property"
         name:  "intellectualproperty"
         fields:
+            - {label: enable, name: enable, widget: string}
             - {label: heading, name: title, widget: markdown}
             - label: "intellectualpropertyItem"
               name: "item"
