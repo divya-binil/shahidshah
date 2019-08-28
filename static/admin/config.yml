@@ -38,8 +38,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
             - {label: enable, name: enable, widget: string}
             - {label: heading, name: title, widget: markdown}
-            - label: "intellectualpropertyItem"
-              name: "item"
+            - label : "intellectualpropertyItem"
+              name  : "item"
               widget: "list"
               fields:
                 - {label: "Patent", name: "Patent", widget: "string"}
@@ -48,9 +48,10 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Link", name: "Link", widget: "string"}
       - file: "data/en/testimonial.yml"
         label: "Recommendations"
-        name:  "recommendations"
+        name:  "Recommendations"
         fields:
             - {label: enable, name: enable, widget: string}
+            - label : "Recommendations"
               name  : "item"
               widget: "list"
               fields:
@@ -59,4 +60,6 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Client Name", name: "clientName", widget: "string"}  
                 - {label: "Client Designation", name: "clientDesignation", widget: "string"}
                 - {label: "Client Duration", name: "clientDuration", widget: "string"}
-               
+
+
+     
