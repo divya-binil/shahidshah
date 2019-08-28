@@ -1,0 +1,48 @@
+backend:
+  name: git-gateway
+
+media_folder: "static/images" # Folder where user uploaded files should go
+public_folder: "img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Blog" # Used in the UI, ie.: "New Post"
+    folder: "content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "author", name: "author", widget: "string"}
+      - {label: "type", name: "type", widget: "string", required: false}
+      - {label: "url", name: "url", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "text" , required: false}         
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "architecture" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Architecture & Engineering" # Used in the UI, ie.: "New Post"
+    folder: "content/blog/architecture-engineering" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "author", name: "author", widget: "string"}
+      - {label: "type", name: "type", widget: "string", required: false}
+      - {label: "url", name: "url", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "text" , required: false}         
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "sections"
+    label: "sections"
+    files:
+      - file: "data/en/intellectualproperty.yml"
+        label: "Intellectual property"
+        name:  "intellectualproperty"
+        fields:
+            - {label: heading, name: title, widget: markdown}
+            - label: "intellectualpropertyItem"
+              name: "item"
+              widget: "list"
+              fields:
+                - {label: "Patent", name: "Patent", widget: "string"}
+                - {label: "Title", name: "Title", widget: "string"}
+                - {label: "Overview", name: "Overview", widget: "string"}
+                - {label: "Link", name: "Link", widget: "string"}
+               
