@@ -1,13 +1,16 @@
-enable : true
-title   : Shahid Shah’s Intellectual Property Registrations
-item    :
-  - Patent    : >
+title: Shahid Shah’s Intellectual Property Registrations
+item:
+  - Link: 'http://www.patentsencyclopedia.com/app/20150294069'
+    Overview: Netspective Communications
+    Patent: |
       US 20150294069 A1
-    Title     : Multi-Source Patient Generated Healthcare Data Integration In A Transactional System
-    Overview  : Netspective Communications 
-    Link      : http://www.patentsencyclopedia.com/app/20150294069
-
-  - Patent    : >
+    Title: >-
+      Multi-Source Patient Generated Healthcare Data Integration In A
+      Transactional System
+  - Link: >-
+      http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.html&r=1&f=G&l=50&s1=%2220150088884%22.PGNR.&OS=DN/20150088884&RS=DN/20150088884
+    Overview: Netspective Communications
+    Patent: |
       US 20150088884 A1
     Title: Crowdsourced responses management to cases
   - Link: 'https://patents.google.com/patent/US20150073870'
