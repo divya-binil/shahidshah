@@ -74,7 +74,7 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Video Caption", name: "caption", widget: "string"} 
       - file: "data/en/speechabstracts.yml"
         label: "Speech Abstracts"
-        name:  "speechabstracts"
+        name:  "speechabstract"
         fields:
             - {label: enable, name: enable, widget: string}
             - {label: Title, name: title, widget: string}
