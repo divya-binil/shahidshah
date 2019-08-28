@@ -120,6 +120,7 @@ collections: # A list of collections the CMS should be able to edit
               fields:
                 - {label: "Image", name: "image", widget: "image"} 
                 - {label: "Link", name: "link", widget: "string"}
+                
 
                 
 
