@@ -22,56 +22,46 @@
 
                     <div id="Current" class="tabcontentExp"><!-- Received tab conytent-->
                         <!--<div class="testimonial-slider">-->
-                             <div class="row">
-                            {{ range first 3 .item }}
-                            {{ "<!-- testimonial single -->" | safeHTML }}
-                             <div class="col-md-4">
-                            <div class="item text-center">
-                                {{ "<!-- client quote -->" | safeHTML }}
-                                {{ "<!-- client photo -->" | safeHTML }}
-                                <div class="client-thumb">
-                                    <img src="{{ .clientThumb | absURL }}" class="img-fluid" alt="client-image">
+                          
+                            {{ range first 3 .item }} 
+                            {{ "<!-- testimonial single -->" | safeHTML }}  
+                            <article class="row">                              
+                                <div class="col-md-1">
+                                    <img src="{{ .clientThumb | absURL }}" class="img-responsive" alt="client-image">
                                 </div>
-                                <div class="client-meta">
-                                    <h5>{{ .clientName }}</h5>
-                                    <span><h6>{{ .clientDesignation }}</h6></span>
-                                    <span><h6>{{ .clientDuration }}</h6></span>
+                                <div class="col-md-3">
+                                    <strong>{{ .clientName }}</strong> <br>
+                                    <p>{{ .clientDesignation }}</p>
+                                    <span>{{ .clientDuration }}</span>
                                 </div>
-                                <div class="client-details">
+                                <div class="col-md-8">
                                     <p>{{ .quote }}</p>
-                                </div>
-                            </div>
-                            </div>
-                            {{ end }}
-                        <!--</div>-->
-                    </div>
+                                </div> 
+                            </article>
+                            {{ end }}   
+                    
                     </div>
 
                     <div id="Past" class="tabcontentExp"> <!-- Given  tab content-->
                         <!--<div class="testimonial-slider">-->
-                             <div class="row">
-                            {{ range last 3 .item }}
-                            {{ "<!-- testimonial single -->" | safeHTML }}
-                            <div class="col-md-4">
-                            <div class="item text-center">
-                                {{ "<!-- client quote -->" | safeHTML }}
-                                {{ "<!-- client photo -->" | safeHTML }}
-                                <div class="client-thumb">
-                                    <img src="{{ .clientThumb | absURL }}" class="img-fluid" alt="client-image">
+                             
+                           {{ range last 3 .item }} 
+                            {{ "<!-- testimonial single -->" | safeHTML }}  
+                            <article class="row">                              
+                                <div class="col-md-1">
+                                    <img src="{{ .clientThumb | absURL }}" class="img-responsive" alt="client-image">
                                 </div>
-                                 <div class="client-meta">
-                                    <h5>{{ .clientName }}</h5>
-                                    <span><h6>{{ .clientDesignation }}</h6></span>
-                                    <span><h6>{{ .clientDuration }}</h6></span>
+                                <div class="col-md-3">
+                                    <strong>{{ .clientName }}</strong> <br>
+                                    <p>{{ .clientDesignation }}</p>
+                                    <span>{{ .clientDuration }}</span>
                                 </div>
-                                <div class="client-details">
+                                <div class="col-md-8">
                                     <p>{{ .quote }}</p>
                                 </div>
-                            </div>
-                            </div>
-                            {{ end }}
-                        <!--</div>-->
-                         </div>
+                            </article> 
+                            {{ end }}   
+                         
                     </div>
 
                 </div>
