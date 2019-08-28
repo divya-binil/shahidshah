@@ -1,10 +1,10 @@
 enable: true
 item:
-  - Date: '11Nov 9, 2017'
-    Link: '11https://www.purposeeventgroup.com/events/healthimpact-midwest-2017'
+  - Date: 'Nov 9, 2017'
+    Link: 'https://www.google.com'
     Logo: /images/speaking/purpose-events-1.png
-    Place: '11United States, Chicago'
-    Title: 11HealthIMPACT Midwest 2017
+    Place: 'United States, Chicago'
+    Title: HealthIMPACT Midwest 2017
   - Date: 'Nov 7, 2017'
     Link: lanyrd.com/2017/healthcare-it-leadership-summit/
     Logo: /images/speaking/HILS.png
