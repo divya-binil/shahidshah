@@ -149,9 +149,9 @@ collections: # A list of collections the CMS should be able to edit
         name:  "bios"
         fields:
             - {label: enable, name: enable, widget: string}
-            - {label: title, name: title, widget: markdown}
-            - {label: Picture Heading, name: picturetext, widget: markdown}
-            - {label: Picture subheading, name: subtext, widget: markdown}
+            - {label: title, name: title, widget: string}
+            - {label: Picture Heading, name: picturetext, widget: string}
+            - {label: Picture subheading, name: subtext, widget: string}
             - {label: Image 1, name: image1, widget: image}
             - {label: image1 caption, name: image1Label, widget: string}
             - {label: Image 2, name: image2, widget: image}
@@ -166,6 +166,6 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "paragraph 1", name: "para1", widget: "string"}
                 - {label: "paragraph 2", name: "para2", widget: "string"}
                 - {label: "paragraph 3", name: "para3", widget: "string"}   
-                      
+
 
      
