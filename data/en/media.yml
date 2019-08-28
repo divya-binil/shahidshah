@@ -1,86 +1,20 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 
 member  :
   - image         : images/media/politico_logo.jpg
-    name          : Shawshank Redemption
-    designation   : Head Of Marketing
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
 
   - image         : images/media/eweek_logo.jpg
-    name          : Leo Departure
-    designation   : Web Developer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
-
+  
   - image         : images/media/IW_logo.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
-
+  
   - image         : images/media/o_reilly_logo.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
-
+  
   - image         : images/media/mddi_logo.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
-
+  
   - image         : images/media/crux_logo.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
-
+   
   - image         : images/media/federal_news.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
-
+  
   - image         : images/media/healthcare_logo.jpg
-    name          : Lawandeski Roma x
-    designation   : Designer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+   
    
