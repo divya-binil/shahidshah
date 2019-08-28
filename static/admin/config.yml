@@ -50,6 +50,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Recommendations"
         name:  "recommendations"
         fields:
+            - {label: enable, name: enable, widget: string}
               name: "item"
               widget: "list"
               fields:
