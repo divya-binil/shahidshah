@@ -46,4 +46,16 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Title", name: "Title", widget: "string"}
                 - {label: "Overview", name: "Overview", widget: "string"}
                 - {label: "Link", name: "Link", widget: "string"}
+      - file: "data/en/testimonial.yml"
+        label: "Recommendations"
+        name:  "recommendations"
+        fields:
+              name: "item"
+              widget: "list"
+              fields:
+                - {label: "Quote", name: "quote", widget: "string"}
+                - {label: "Client Image", name: "clientThumb", widget: "image"}
+                - {label: "Client Name", name: "clientName", widget: "string"}  
+                - {label: "Client Designation", name: "clientDesignation", widget: "string"}
+                - {label: "Client Duration", name: "clientDuration", widget: "string"}
                
