@@ -60,6 +60,19 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Client Name", name: "clientName", widget: "string"}  
                 - {label: "Client Designation", name: "clientDesignation", widget: "string"}
                 - {label: "Client Duration", name: "clientDuration", widget: "string"}
+      - file: "data/en/youtubevideos.yml"
+        label: "Home page Video slider"
+        name:  "homepageslider"
+        fields:
+            - {label: enable, name: enable, widget: string}
+            - label : "Home page Video slider"
+              name  : "item"
+              widget: "list"
+              fields:
+                - {label: "Video Link", name: "link", widget: "string"}
+                - {label: "Video Image", name: "image", widget: "image"}
+                - {label: "Video Caption", name: "caption", widget: "string"}  
+                
 
 
      

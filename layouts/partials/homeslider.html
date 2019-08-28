@@ -1,5 +1,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.youtubevideos }}
+{{ if .enable }}
 <script src="/js/jqueryexternal-1.11.0.min.js"></script>
 
 <div class="video-slider">
@@ -19,6 +20,7 @@
     <div class="slide-arrow right"></div>
 </div>
  {{ end }}  
+{{ end }}  
 <script>
 /*$(document).ready(function() {
     setInterval("nextSlide()", 5000);

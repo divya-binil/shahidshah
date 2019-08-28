@@ -1,6 +1,4 @@
 enable  : true
-title   : Videos
-
 item  :
   - link         : https://www.youtube.com/watch?v=KDHraYwu30E&feature=youtu.be
     image        : /images/videoslider/video6-1.jpg
