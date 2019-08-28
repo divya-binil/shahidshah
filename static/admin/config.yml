@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "recommendations"
         fields:
             - {label: enable, name: enable, widget: string}
-              name: "item"
+              name  : "item"
               widget: "list"
               fields:
                 - {label: "Quote", name: "quote", widget: "string"}
