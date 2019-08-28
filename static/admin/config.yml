@@ -98,7 +98,7 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Date", name: "Date", widget: "string"}
                 - {label: "Logo", name: "Logo", widget: "image"} 
                 - {label: "Link", name: "Link", widget: "string"}
-      - file: "data/en/galley.yml"
+      - file: "data/en/gallery.yml"
         label: "Gallery"
         name:  "gallery"
         fields:
