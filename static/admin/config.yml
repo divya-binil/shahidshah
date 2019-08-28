@@ -44,5 +44,5 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Patent", name: "Patent", widget: "string"}
                 - {label: "Title", name: "Title", widget: "string"}
                 - {label: "Overview", name: "Overview", widget: "string"}
-                - {label: "Link", name: "Link", widget: "string"}
+               
                
