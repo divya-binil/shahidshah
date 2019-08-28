@@ -89,7 +89,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "mediacoverage"
         fields:
             - {label: enable, name: enable, widget: string}
-            - label : "Media Coverage"
+            - label : "Media coverage"
               name  : "item"
               widget: "list"
               fields:
