@@ -1,64 +1,44 @@
-enable  : true
-item  :
-  - image         : /images/gallery/2013mitcio-1597.jpg
-    link          : /images/gallery/2013mitcio-1597.jpg
-  
-  - image         : /images/gallery/2013mitcio-1598.jpg
-    link          : /images/gallery/2013mitcio-1598.jpg
-    
-  - image         : /images/gallery/2013mitcio-1599.jpg
-    link          : /images/gallery/2013mitcio-1599.jpg
-   
-  - image         : /images/gallery/2013mitcio-1600.jpg
-    link          : /images/gallery/2013mitcio-1600.jpg
- 
-  - image         : /images/gallery/2013mitcio-1601.jpg
-    link          : /images/gallery/2013mitcio-1601.jpg
-
-  - image         : /images/gallery/2013mitcio-1613.jpg
-    link          : /images/gallery/2013mitcio-1613.jpg
-
-  - image         : /images/gallery/2013mitcio-1614.jpg
-    link          : /images/gallery/2013mitcio-1614.jpg
-
-  - image         : /images/gallery/8574232307_4b572089e5_h.jpg
-    link          : /images/gallery/8574232307_4b572089e5_h.jpg
-
-  - image         : /images/gallery/8574235113_05a1281a5d_h.jpg
-    link          : /images/gallery/8574235113_05a1281a5d_h.jpg
-
-  - image         : /images/gallery/8574291539_400b19eee5_h.jpg
-    link          : /images/gallery/8574291539_400b19eee5_h.jpg
-
-  - image         : /images/gallery/8574440547_151c26fead_h.jpg
-    link          : /images/gallery/8574440547_151c26fead_h.jpg
-
-  - image         : /images/gallery/surescripts_01.jpg
-    link          : /images/gallery/surescripts_01.jpg
-  
-  - image         : /images/gallery/surescripts_02.jpg
-    link          : /images/gallery/surescripts_02.jpg
-
-  - image         : /images/gallery/surescripts_03.jpg
-    link          : /images/gallery/surescripts_03.jpg
-  
-  - image         : /images/gallery/surescripts_04.jpg
-    link          : /images/gallery/surescripts_04.jpg
-
-  - image         : /images/gallery/dsc_1508.jpg
-    link          : /images/gallery/dsc_1508.jpg
-  
-  - image         : /images/gallery/dsc_1510.jpg
-    link          : /images/gallery/dsc_1510.jpg
-
-  - image         : /images/gallery/dsc_1573.jpg
-    link          : /images/gallery/dsc_1573.jpg
-  
-  - image         : /images/gallery/dsc_1574.jpg
-    link          : /images/gallery/dsc_1574.jpg
-
-  - image         : /images/gallery/dsc_1595.jpg
-    link          : /images/gallery/dsc_1595.jpg
-
-  - image         : /images/gallery/0ShahidS7564.jpg
-    link          : /images/gallery/0ShahidS7564.jpg
+enable: true
+item:
+  - image: /images/gallery/2013mitcio-1597.jpg
+    link: /images/gallery/2013mitcio-1597.jpg
+  - image: /images/gallery/2013mitcio-1598.jpg
+    link: /images/gallery/2013mitcio-1598.jpg
+  - image: /images/gallery/2013mitcio-1599.jpg
+    link: /images/gallery/2013mitcio-1599.jpg
+  - image: /images/gallery/2013mitcio-1600.jpg
+    link: /images/gallery/2013mitcio-1600.jpg
+  - image: /images/gallery/2013mitcio-1601.jpg
+    link: /images/gallery/2013mitcio-1601.jpg
+  - image: /images/gallery/2013mitcio-1613.jpg
+    link: /images/gallery/2013mitcio-1613.jpg
+  - image: /images/gallery/2013mitcio-1614.jpg
+    link: /images/gallery/2013mitcio-1614.jpg
+  - image: /images/gallery/8574232307_4b572089e5_h.jpg
+    link: /images/gallery/8574232307_4b572089e5_h.jpg
+  - image: /images/gallery/8574235113_05a1281a5d_h.jpg
+    link: /images/gallery/8574235113_05a1281a5d_h.jpg
+  - image: /images/gallery/8574291539_400b19eee5_h.jpg
+    link: /images/gallery/8574291539_400b19eee5_h.jpg
+  - image: /images/gallery/8574440547_151c26fead_h.jpg
+    link: /images/gallery/8574440547_151c26fead_h.jpg
+  - image: /images/gallery/surescripts_01.jpg
+    link: /images/gallery/surescripts_01.jpg
+  - image: /images/gallery/surescripts_02.jpg
+    link: /images/gallery/surescripts_02.jpg
+  - image: /images/gallery/surescripts_03.jpg
+    link: /images/gallery/surescripts_03.jpg
+  - image: /images/gallery/surescripts_04.jpg
+    link: /images/gallery/surescripts_04.jpg
+  - image: /images/gallery/dsc_1508.jpg
+    link: /images/gallery/dsc_1508.jpg
+  - image: /images/gallery/dsc_1510.jpg
+    link: /images/gallery/dsc_1510.jpg
+  - image: /images/gallery/dsc_1573.jpg
+    link: /images/gallery/dsc_1573.jpg
+  - image: /images/gallery/dsc_1574.jpg
+    link: /images/gallery/dsc_1574.jpg
+  - image: /images/gallery/dsc_1595.jpg
+    link: /images/gallery/dsc_1595.jpg
+  - image: /images/gallery/0ShahidS7564.jpg
+    link: /images/gallery/0ShahidS7564.jpg
