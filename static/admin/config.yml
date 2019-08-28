@@ -65,7 +65,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "homepageslider"
         fields:
             - {label: enable, name: enable, widget: string}
-            - label : "Home page Video slider"
+            - label : "Home Page Video slider"
               name  : "item"
               widget: "list"
               fields:
