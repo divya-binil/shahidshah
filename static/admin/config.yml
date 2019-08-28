@@ -165,7 +165,21 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "title", name: "title", widget: "string"}
                 - {label: "paragraph 1", name: "para1", widget: "string"}
                 - {label: "paragraph 2", name: "para2", widget: "string"}
-                - {label: "paragraph 3", name: "para3", widget: "string"}   
+                - {label: "paragraph 3", name: "para3", widget: "string"}
+      - file: "data/en/pastspeaking.yml"
+        label: "Past Speaking appearances"
+        name:  "pastspeakingappearances"
+        fields:
+            - {label: enable, name: enable, widget: string}
+            - label : "Past Speaking appearances"
+              name  : "item"
+              widget: "list"
+              fields:
+                - {label: "Title", name: "Title", widget: "string"}
+                - {label: "Place", name: "Place", widget: "string"}
+                - {label: "Date", name: "Date", widget: "string"}
+                - {label: "Logo", name: "Logo", widget: "image"} 
+                - {label: "Link", name: "Link", widget: "string"}   
 
 
      

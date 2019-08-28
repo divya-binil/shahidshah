@@ -1,6 +1,4 @@
 enable : true
-topTitle: Speaking Schedule
-title   : Past speaking appearances
 item    :
   - Title     : HealthIMPACT Midwest 2017
     Place     : United States, Chicago
