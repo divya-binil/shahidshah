@@ -30,7 +30,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categories", name: "categories", widget: "text" , required: false}         
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "sections"
-    label: "test"
+    label: "sections"
     files:
       - file: "data/en/intellectualproperty.yml"
         label: "Intellectual property"
