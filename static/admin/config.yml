@@ -182,4 +182,4 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Link", name: "Link", widget: "string"}   
 
 
-     
+    
