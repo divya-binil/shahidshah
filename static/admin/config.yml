@@ -84,6 +84,21 @@ collections: # A list of collections the CMS should be able to edit
               fields:
                 - {label: "Speech title", name: "title", widget: "string"}
                 - {label: "Sub description", name: "subdesc", widget: "string"}  
+      - file: "data/en/media-coverage.yml"
+        label: "Media Coverage"
+        name:  "mediacoverage"
+        fields:
+            - {label: enable, name: enable, widget: string}
+            - label : "Media Coverage"
+              name  : "item"
+              widget: "list"
+              fields:
+                - {label: "Name", name: "Name", widget: "string"}
+                - {label: "Title", name: "Title", widget: "string"} 
+                - {label: "Date", name: "Date", widget: "string"}
+                - {label: "Logo", name: "Logo", widget: "image"} 
+                - {label: "Link", name: "Link", widget: "string"}
+
                 
 
 
