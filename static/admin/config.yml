@@ -120,9 +120,30 @@ collections: # A list of collections the CMS should be able to edit
               fields:
                 - {label: "Image", name: "image", widget: "image"} 
                 - {label: "Link", name: "link", widget: "string"}
-                
-
-                
-
+      - file: "data/en/exp.yml"
+        label: "Experience"
+        name:  "experience"
+        fields:
+            - {label: enable, name: enable, widget: string}
+            - label : "Experience"
+              name  : "item"
+              widget: "list"
+              fields:
+                - {label: "Quote", name: "quote", widget: "string"}
+                - {label: "Client Image", name: "clientThumb", widget: "image"}
+                - {label: "Client Name", name: "clientName", widget: "string"}  
+                - {label: "Client Designation", name: "clientDesignation", widget: "string"}
+                - {label: "Client Duration", name: "clientDuration", widget: "string"} 
+      - file: "data/en/endorsement.yml"
+        label: "Endorsement"
+        name:  "endorsement"
+        fields:
+            - {label: enable, name: enable, widget: string}
+            - label : "Endorsement"
+              name  : "item"
+              widget: "list"
+              fields:              
+                - {label: "Image", name: "image", widget: "image"}
+               
 
      
