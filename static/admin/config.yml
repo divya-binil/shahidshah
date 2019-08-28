@@ -162,7 +162,7 @@ collections: # A list of collections the CMS should be able to edit
               name  : "item"
               widget: "list"
               fields:
-                - {label: "title", name: "Patent", widget: "string"}
+                - {label: "title", name: "title", widget: "string"}
                 - {label: "paragraph 1", name: "para1", widget: "string"}
                 - {label: "paragraph 2", name: "para2", widget: "string"}
                 - {label: "paragraph 3", name: "para3", widget: "string"}   
