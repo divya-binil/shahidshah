@@ -1,9 +1,5 @@
-enable  : true
-title   : Speech Abstracts
-
-item    :
-  - title   : How ISR is Being Impacted by Big Data
-    subdesc : ISR symposium, USA, April 30, 2014 
-  
-   
-
+enable: true
+title: Speech Abstractss
+item:
+  - subdesc: 'test ISR symposium, USA, April 30, 2014'
+    title: test How ISR is Being Impacted by Big Data
