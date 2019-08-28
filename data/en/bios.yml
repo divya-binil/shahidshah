@@ -1,26 +1,26 @@
 enable: true
-title: 'test Bio Abstracts for publications, interviews, and speaking engagements'
-picturetext: test Pictures
-subtext: test Please take your pick and crop as necessary.
+title: 'Bio Abstracts for publications, interviews, and speaking engagements'
+picturetext: Pictures
+subtext: Please take your pick and crop as necessary.
 image1: /images/bios/0ShahidS7564.jpg
-image1Label: test Print or Online (Jumbo)
+image1Label: Print or Online (Jumbo)
 image2: /images/bios/portrait-ibm-insight-2015.jpg
-image2Label: test Print or Online (Medium)
+image2Label: Print or Online (Medium)
 image3: /images/bios/mugshot_2013_1-150x190.jpg
-image3Label: test Online (Medium)
+image3Label: Online (Medium)
 item:
   - para1: >-
-      test Shahid Shah is an award-winning Government 2.0, Health IT, Medical
-      Device Integration software expert with over [insert_php] echo $yearexp =
+      Shahid Shah is an award-winning Government 2.0, Health IT, Medical Device
+      Integration software expert with over [insert_php] echo $yearexp =
       date(“Y”) – 1990; [/insert_php] years of technology strategy, software
       engineering, entrepreneurship, speaking, and writing experience.
     para2: >-
-      test Shahid Shah is an award-winning Digital Government, Cybersecurity,
-      and Health IT expert with over [insert_php] echo $yearexp = date(“Y”) –
-      1990; [/insert_php] years of technology strategy, software engineering,
+      Shahid Shah is an award-winning Digital Government, Cybersecurity, and
+      Health IT expert with over [insert_php] echo $yearexp = date(“Y”) – 1990;
+      [/insert_php] years of technology strategy, software engineering,
       entrepreneurship, speaking, and writing experience.
-    para3: test
-    title: test One-liners
+    para3: ''
+    title: One-liners
   - para1: >-
       Shahid Shah is an award-winning Government 2.0, Health IT, and Medical
       Device Integration software expert and internationally-recognized thought
