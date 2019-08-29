@@ -12,8 +12,10 @@
             </div>
         </div>
         <div class="row">
-            {{ range first 3 .Data.Pages.ByLastmod }}
+          
            
+            {{ range last 5 (where .Site.Pages "Section" "All-Blogs")  }}
+
             {{ "<!-- single blog post -->" | safeHTML }}
             <article class="col-12 col-md-4">
                 <div class="post-item">
