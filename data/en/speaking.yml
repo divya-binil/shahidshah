@@ -1,4 +1,4 @@
-enable: false
+enable: true
 member:
   - image: images/speaking/MITSloan.png
   - image: images/speaking/scansource.png
