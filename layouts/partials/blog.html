@@ -14,7 +14,7 @@
         <div class="row">
           
            
-            {{ range last 3 (where .Site.Pages "Section" "All-Blogs")  }}
+            {{ range last 5 (where .Site.Pages "Section" "All-Blogs")  }}
 
             {{ "<!-- single blog post -->" | safeHTML }}
             <article class="col-12 col-md-4">
