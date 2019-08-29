@@ -1,45 +1,24 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.youtubevideos }}
 {{ if .enable }}
-<script src="/js/jqueryexternal-1.11.0.min.js"></script>
-
-<div class="video-slider">
-    <!-- SLIDE 1 -->
-    {{ range .item }} 
-    {{ "<!-- testimonial single -->" | safeHTML }} 
-    <div class="slide">  
-        <a href="{{ .link }}"  target="_blank"><img class="video-image" src="{{ .image }}"> </a> 
-        <div class="text-block">
-            <h6>{{ .caption }}</h6>
-        </div>                      
+    <script src="/js/jqueryexternal-1.11.0.min.js"></script>
+    <div class="video-slider">
+        {{ range .item }} 
+        {{ "<!-- testimonial single -->" | safeHTML }} 
+        <div class="slide">  
+            <a href="{{ .link }}"  target="_blank"><img class="video-image" src="{{ .image }}"> </a> 
+            <div class="text-block">
+                <h6>{{ .caption }}</h6>
+            </div>                      
+        </div>
+        {{ end }}  
+        <div class="slide-arrow left"></div>
+        <div class="slide-arrow right"></div>
     </div>
-    {{ end }}  
-   
-    <!-- END OF SLIDES -->
-    <div class="slide-arrow left"></div>
-    <div class="slide-arrow right"></div>
-</div>
- {{ end }}  
 {{ end }}  
+{{ end }}  
+
 <script>
-/*$(document).ready(function() {
-    setInterval("nextSlide()", 5000);
- }); */
-
-
- /*$(document).ready(function(){
-    //auto start after 3 seconds
-    setTimeout(function(){
-         $('.right').click();
-    },3000);
-
-    //slideshow - every 3 seconds
-    var slider = setInterval(function(){
-        $('.right').click();
-    },3000);
-
-});*/
-
 $('.play-button').on('click', function () {
         $(this).hide();
         $(this).parent().fadeOut();

@@ -1,8 +1,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.exp }}
-    {{ if .enable }}
-           
-    
+    {{ if .enable }}              
     <section class="testimonial section" id="testimonial">
     <div class="tabhead"><h2>Experience</h2></div>       
     <div class="tab">
@@ -19,12 +17,9 @@
             <div class="row">
                 <div class="col-lg-12">                   
                     {{ "<!-- testimonial wrapper -->" | safeHTML }}
-
                     <div id="Current" class="tabcontentExp"><!-- Received tab conytent-->
-                        <!--<div class="testimonial-slider">-->
-                          
-                            {{ range first 3 .item }} 
-                            {{ "<!-- testimonial single -->" | safeHTML }}  
+                        {{ range first 3 .item }} 
+                        {{ "<!-- testimonial single -->" | safeHTML }}  
                             <article class="row">                              
                                 <div class="col-md-1">
                                     <img src="{{ .clientThumb | absURL }}" class="img-responsive" alt="client-image">
@@ -38,15 +33,11 @@
                                     <p>{{ .quote }}</p>
                                 </div> 
                             </article>
-                            {{ end }}   
-                    
+                        {{ end }}                       
                     </div>
-
                     <div id="Past" class="tabcontentExp"> <!-- Given  tab content-->
-                        <!--<div class="testimonial-slider">-->
-                             
-                           {{ range last 3 .item }} 
-                            {{ "<!-- testimonial single -->" | safeHTML }}  
+                        {{ range last 3 .item }} 
+                        {{ "<!-- testimonial single -->" | safeHTML }}  
                             <article class="row">                              
                                 <div class="col-md-1">
                                     <img src="{{ .clientThumb | absURL }}" class="img-responsive" alt="client-image">
@@ -60,25 +51,20 @@
                                     <p>{{ .quote }}</p>
                                 </div>
                             </article> 
-                            {{ end }}   
-                         
+                        {{ end }}                            
                     </div>
-
                 </div>
             </div>
-        </div>
-        
+        </div>        
     </section>
-    <div class="more-view"><a href="http://www.linkedin.com/profile/view?id=229351" target="_blank" >View More Experience...</a></div>
-    
-   
+    <div class="more-view"><a href="http://www.linkedin.com/profile/view?id=229351" target="_blank" >View More Experience...</a></div>      
     {{ "<!-- End Section -->" | safeHTML }}
     {{ end }}
 {{ end }}
 
 
 
-<!-- Recoommendations tab -->
+<!-- Experience tab -->
 <script>
 function openExp(evt, status) {
   var i, tabcontent, tablinks;

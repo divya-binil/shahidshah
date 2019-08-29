@@ -17,13 +17,10 @@
                         <ul class="navbar-nav ml-auto" >                           
                             {{ range .Site.Menus.topmenu }}                           
                                 <li class="nav-item">
-                                    
-                                <!-- <a class="nav-link" href="{{ .URL | absLangURL }}">{{ i18n .Name }}</a> -->
-                                <a class="nav-link" href="{{ .URL | absLangURL }}" {{ if or (eq .Name "HealthcareGuy.com") (eq .Name "FedSphere.com") (eq .Name "ShahidShah.com")}} target="_blank" {{ end }}>{{ .Name }}</a>
+                                 <a class="nav-link" href="{{ .URL | absLangURL }}" {{ if or (eq .Name "HealthcareGuy.com") (eq .Name "FedSphere.com") (eq .Name "ShahidShah.com")}} target="_blank" {{ end }}>{{ .Name }}</a>
                                 </li>
                             {{ end }}
                         </ul>
-
                         <ul class="list-inline social-icon">
                         {{ with .Site.Params.contact.facebook }}
                         <li class="list-inline-item">
@@ -50,33 +47,20 @@
                     </div>
                 </nav>
             </div>
-
         </div>        
-
         <div class="row">
             <div class="col-sm-12"><div class="logo_bg_container"><p class="logo_heading"><a href="{{ .Site.BaseURL }}" data-wpel-link="internal">
             Shahid Shah <span class="logo_small_slogan">Gov 2.0, Health IT, Bio IT &amp; digital Med Device Inventor, CTO, Speaker, Entrepreneur</span></a>
             </p></div></div>                  
         </div>
-
         <div class="row">
             <div class="col-md-12">
-                <nav class="navbar navbar-expand-md custom-menu">
-                     <!--<a class="navbar-brand" href="{{ .Site.BaseURL }}">
-                       <img src="{{ with .Site.Params.logo }}{{ . | absURL }}{{ end }}" alt="logo"> 
-                    </a>-->
+                <nav class="navbar navbar-expand-md custom-menu">                
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation"
                         aria-expanded="false" aria-label="Toggle navigation">
                         <span class="tf-ion-android-menu"></span>
                     </button>
-                    <!-- Icones & drapeaux de choix des langues -->
-                    <div id="drapeaux">
-                        <!-- Pour passer la langue actuelle (variable globale) dans la range => explicitement 
-                        {{ range .Site.Params.listeLangues }}
-                            {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
-                        {{ end }}-->
-                    </div>
-                   
+                    <div id="drapeaux"></div>                   
                     <div class="collapse navbar-collapse" id="navigation">
                         <ul class="navbar-nav">
                             <li class="nav-item">

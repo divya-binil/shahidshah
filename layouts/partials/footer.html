@@ -3,36 +3,27 @@
     <div class="top-footer">
         <div class="container">
             <div class="row">
-                    <div class="col-sm-4 col-md-4 col-lg-4">
+                <div class="col-sm-4 col-md-4 col-lg-4">
                     <ul>
                         {{ range .Site.Menus.part1 }}
-                        <li>
-                            <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                </div>
-                  <div class="col-sm-4 col-md-4 col-lg-4">
-                   
-                    <ul>
-                        {{ range .Site.Menus.service }}
-                        <li>
-                            <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-                        </li>
+                        <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                         {{ end }}
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-4 col-lg-4">
-                   
-                    <ul>
-                        {{ range .Site.Menus.quicklink }}
-                        <li>
-                            <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-                        </li>
+                   <ul>
+                        {{ range .Site.Menus.service }}
+                        <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                         {{ end }}
                     </ul>
                 </div>
-               
+                <div class="col-sm-4 col-md-4 col-lg-4">                   
+                    <ul>
+                        {{ range .Site.Menus.quicklink }}
+                        <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                        {{ end }}
+                    </ul>
+                </div>               
             </div>
         </div>
     </div>
