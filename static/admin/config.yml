@@ -200,6 +200,4 @@ collections: # A list of collections the CMS should be able to edit
               name  : "member"
               widget: "list"
               fields:               
-                - {label: "Image", name: "image", widget: "image"}
-                
-               
+                - {label: "Image", name: "image", widget: "image"}                          
