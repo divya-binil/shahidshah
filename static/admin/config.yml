@@ -167,11 +167,11 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "paragraph 2", name: "para2", widget: "string"}
                 - {label: "paragraph 3", name: "para3", widget: "string"}
       - file: "data/en/pastspeaking.yml"
-        label: "Past Speaking appearances"
-        name:  "pastspeakingappearances"
+        label: "Speaking Schedule"
+        name:  "speakingschedule"
         fields:
             - {label: enable, name: enable, widget: string}
-            - label : "Past Speaking appearances"
+            - label : "Speaking Schedule"
               name  : "item"
               widget: "list"
               fields:
@@ -190,4 +190,14 @@ collections: # A list of collections the CMS should be able to edit
               widget: "list"
               fields:               
                 - {label: "Image", name: "image", widget: "image"} 
+      - file: "data/en/speaking.yml"
+        label: "Past Speaking Engagements"
+        name:  "speakingengagements"
+        fields:
+            - {label: enable, name: enable, widget: string}
+            - label : "Past Speaking Engagements "
+              name  : "member"
+              widget: "list"
+              fields:               
+                - {label: "Image", name: "image", widget: "image"}
                
