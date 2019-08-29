@@ -37,7 +37,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Intellectual property"
         name:  "intellectualproperty"
         fields:
-            - {label: enable, name: enable, widget: boolean}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - {label: heading, name: title, widget: string}
             - label : "intellectualpropertyItem"
               name  : "item"
@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Recommendations"
         name:  "Recommendations"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Recommendations"
               name  : "item"
               widget: "list"
@@ -65,7 +65,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Home page Video slider"
         name:  "homepageslider"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Home Page Video slider"
               name  : "item"
               widget: "list"
@@ -77,7 +77,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Speech Abstracts"
         name:  "speechabstract"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - {label: Title, name: title, widget: string}
             - label : "Speech Abstracts"
               name  : "item"
@@ -89,7 +89,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Media coverage"
         name:  "mediacoverage"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Media coverage"
               name  : "item"
               widget: "list"
@@ -103,7 +103,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Gallery"
         name:  "gallery"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Gallery"
               name  : "item"
               widget: "list"
@@ -114,7 +114,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Conference"
         name:  "conference"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Conference"
               name  : "item"
               widget: "list"
@@ -125,7 +125,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Experience"
         name:  "experience"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Experience"
               name  : "item"
               widget: "list"
@@ -139,7 +139,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Endorsement"
         name:  "endorsement"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Endorsement"
               name  : "item"
               widget: "list"
@@ -149,7 +149,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Bios"
         name:  "bios"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - {label: title, name: title, widget: string}
             - {label: Picture Heading, name: picturetext, widget: string}
             - {label: Picture subheading, name: subtext, widget: string}
@@ -171,7 +171,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Speaking Schedule"
         name:  "speakingschedule"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Speaking Schedule"
               name  : "item"
               widget: "list"
@@ -185,7 +185,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Media"
         name:  "media"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Media"
               name  : "member"
               widget: "list"
@@ -195,7 +195,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Past Speaking Engagements"
         name:  "speakingengagements"
         fields:
-            - {label: enable, name: enable, widget: string}
+            - {label: enable, name: enable, widget: boolean, default: true}
             - label : "Past Speaking Engagements "
               name  : "member"
               widget: "list"
