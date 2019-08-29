@@ -1,4 +1,4 @@
-enable: 'true'
+enable: true
 title: Speech Abstracts
 item:
   - subdesc: 'ISR symposium, USA, April 30, 2014'
