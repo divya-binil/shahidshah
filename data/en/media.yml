@@ -1,4 +1,4 @@
-enable: false
+enable: true
 member:
   - image: images/media/politico_logo.jpg
   - image: images/media/eweek_logo.jpg
