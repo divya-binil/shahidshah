@@ -6,11 +6,8 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <div class="title text-center">
-                        {{ with .title }}
-                            <h2>Past Speaking Engagements</h2>
-                          
-                        {{ end }}                        
+                    <div class="title text-center">                      
+                            <h2> {{ .title }}</h2>                                                                        
                     </div>
                 </div>
             </div>
@@ -27,10 +24,8 @@
                      </div> 
                     {{ "<!-- end team member -->" | safeHTML }}
                 {{ end }}
-
             </div>
-        </div>
-        
+        </div>        
         <div class="more-view"><a href="{{ "speaking-schedule/" }}" >More..</a></div>
     </section>
     {{ "<!-- End section -->" | safeHTML }}
