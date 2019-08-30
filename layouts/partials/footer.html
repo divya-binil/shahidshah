@@ -4,16 +4,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4 col-md-4 col-lg-4">
-                    <ul>
+                    <ul>                               
                         {{ range .Site.Menus.part1 }}
-                        <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                        <li><a href="{{ .URL | absLangURL }}" {{ if or (eq .Name "Profile") (eq .Name "Speaker Decks") (eq .Name "Publications") (eq .Name "Videos")}} target="_blank" {{ end }}>{{ .Name }}</a></li>
                         {{ end }}
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-4 col-lg-4">
                    <ul>
                         {{ range .Site.Menus.service }}
-                        <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                        <li><a href="{{ .URL | absLangURL }}" {{ if or (eq .Name "www.HealthcareGuy.com") (eq .Name "www.speakerdeck.com") }} target="_blank" {{ end }}>{{ .Name }}</a></li>
                         {{ end }}
                     </ul>
                 </div>

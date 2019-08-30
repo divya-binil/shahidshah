@@ -28,12 +28,6 @@ disableLanguages = ["fr", "ja"]
     [[Params.listeLangues]]
     code = "en"
 
-# View more Params
-[viewmore]
-    URL = "/contact/"
-
-   
-
 # Gestion des langues : FR / EN / NL / DE
 [Languages]
    
@@ -49,67 +43,31 @@ disableLanguages = ["fr", "ja"]
     logo = "images/logo.png"
     menufixed = false
 
-    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-    footerServiceTitle = "Service"
-    footerQuicklinkTitle = "Quicklinks"
-    footerAboutTitle = "About"
-    footerSubscribeTitle = "Subscribe"
-
+    
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
         heading = "Shahid Shah is an award-winning Government 2.0, Health IT, Bio IT & digital Medical Device Inventor & CTO with over 29 years of technology strategy, architecture, engineering, entrepreneurship, speaking, and writing experience."
-        description = "Lorem ipsum dolor sd t id expedita quae quisquam libero officia consequatur."
         button  = true
         btnText1 = "Follow Me On Twitter"
         btnText2 = "Invite me to speak"
         targetst = "_blank"
         btnURL  = "https://twitter.com/ShahidNShah"
         btnURL2  = "contact/"
-        videoThumb = "images/slider/shahid-slider2.jpg"
-        videoURL   = "https://www.youtube.com/embed/_9mUkl9yNVo"
-       
-
-    # About 2 Section
-    [Languages.en.params.aboutSm]
-        enable  = true
-        title   = "We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
+          
     # Blog Section On Homepage
     [Languages.en.params.blog]
         enable  = true
-        topTitle= "OUR UNTOLD STORY"
         title   = "Blogs"
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
     
-
     # Contact Section
     [Languages.en.params.contact]
         enable  = true
-        topTitle= "DROP US A NOTE"
         title   = "Contact Us."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-        address = "14/05, Stockhome <br> Victori Palace , United States"
-        phone   = "(03) 9283 2617"
-        fax     = "+61 3827 3590"
         facebook= "https://www.facebook.com/shahid.n.shah"
         twitter = "https://twitter.com/ShahidNShah"
         linkedin= "https://www.linkedin.com/in/shahidshah"
-        dribbble= "https://dribbble.com/"
-        instagram= "https://www.instagram.com/"
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
-        mapMarker   = "images/marker.png"
-
-    # Call to Action Section on About Page
-    [Languages.en.params.cta]
-        enable  = true
-        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Let's Create Something Together"
-        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-        btnText = "Contact Us"
-
+          
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
@@ -208,7 +166,7 @@ disableLanguages = ["fr", "ja"]
     # Footer Quick links Menu
     [[menu.quicklink]]
         name    = "Contact Me"
-        url     = "#"
+        url     = "/contact"
         weight  = 1
     [[menu.quicklink]]
         name    = "Terms & Conditionsbout"
