@@ -1,15 +1,15 @@
 enable: true
-title: Experience1
+title: Experience
 item:
-  - clientDesignation: 1Founder & CEO at Clinical Referral Directories and Imagine Media Partners
-    clientDuration: 1Jan 2016 - Present | 1 yr 7 mos Greater New York City Area
-    clientName: '1Cofounder, Chairman of the Board Citus Health'
+  - clientDesignation: Founder & CEO at Clinical Referral Directories and Imagine Media Partners
+    clientDuration: Jan 2016 - Present | 1 yr 7 mos Greater New York City Area
+    clientName: 'Cofounder, Chairman of the Board Citus Health'
     clientThumb: /images/citushealth.png
     quote: >-
-      1Citus Health is bringing breakthrough technology to home healthcare. It
-      is our mission to modernize an industry saddled with outdated processes,
-      and give patients reliable, convenient, user-friendly medical technology
-      while reducing the provider's bottom line. 
+      Citus Health is bringing breakthrough technology to home healthcare. It is
+      our mission to modernize an industry saddled with outdated processes, and
+      give patients reliable, convenient, user-friendly medical technology while
+      reducing the provider's bottom line. 
   - clientDesignation: Serial Entrepreneur
     clientDuration: 'December 1, 2013, Shahid worked with Jeff in the same group'
     clientName: Founder Netspective Communications
