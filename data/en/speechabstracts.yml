@@ -1,5 +1,5 @@
-enable: true
-title: sSpeech Abstracts
+enable: false
+title: Speech Abstracts
 item:
-  - subdesc: 'sISR symposium, USA, April 30, 2014'
-    title: sHow ISR is Being Impacted by Big Data
+  - subdesc: 'ISR symposium, USA, April 30, 2014'
+    title: How ISR is Being Impacted by Big Data
