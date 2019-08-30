@@ -1,10 +1,9 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.conference }}
-<link href="/css/style.css" rel="stylesheet" type="text/css" />
 <div class="container">
-  <div class="title-page"><h2>Conference</h2></div>
+  <div class="title-page"><h2>{{ .title }}</h2></div>
   {{ range .item }} 
-  {{ "<!-- testimonial single -->" | safeHTML }}  
+  {{ "<!-- conference single -->" | safeHTML }}  
     <div class="responsive">
       <div class="gallery">
         <a target="_blank" href="{{ .image }}">

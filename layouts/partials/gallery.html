@@ -1,10 +1,10 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.gallery }}
-<link href="/css/style.css" rel="stylesheet" type="text/css" />
+{{ if .enable }} 
 <div class="container">
-  <div class="title-page"><h2>Shahid Shah</h2></div>
+  <div class="title-page"><h2>{{ .title }}</h2></div>
     {{ range .item }} 
-    {{ "<!-- testimonial single -->" | safeHTML }}   
+    {{ "<!-- gallery -->" | safeHTML }}   
       <div class="responsive">
         <div class="gallery">
           <a target="_blank" href="{{ .image }}"><img class="image-size-1" src="{{ .image }}" alt="Image" ></a>
@@ -13,4 +13,5 @@
     {{ end }}   
   <div class="clearfix"></div>
 </div>
+{{ end }} 
 {{ end }}   

@@ -2,7 +2,6 @@
 {{ with $data.intellectualproperty }}
     {{ if .enable }}
     <div class="container">                         
-        {{ "<!-- testimonial wrapper -->" | safeHTML }}  
         <p></p>
         <div class="title-page"><h2>{{ .title }}</h2></div>
         <p></p>
@@ -14,7 +13,7 @@
                     <th>Overview</th>
                 </tr>                                  
                 {{ range .item }} 
-                    {{ "<!-- testimonial single -->" | safeHTML }}  
+                    {{ "<!-- ip single -->" | safeHTML }}  
                     <tr>
                         <td><a href="{{ .Link }}" target="_blank">{{ .Patent }}</a></td>
                         <td>{{ .Title }}</td>

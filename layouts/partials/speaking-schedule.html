@@ -33,10 +33,10 @@
 {{ with $data.pastspeaking }}
     {{ if .enable }}
     <div class="container">
-        <p><h4>Past speaking appearances</h4></p>
+        <p><h4>{{ .title }}</h4></p>
         <div class="row">           
             {{ range .item }} 	
-            {{ "<!-- testimonial single -->" | safeHTML }}  							
+            {{ "<!-- speaking schedule -->" | safeHTML }}  							
             <div class="col-sm-6">               
                 <div class="media_coverage_new_wrapper">
                     <div class="media_coverage_new_logo_container"><p><img class="img-responsive" src="{{ .Logo }}"></p></div>

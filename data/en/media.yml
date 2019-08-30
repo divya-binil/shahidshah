@@ -1,4 +1,5 @@
 enable: true
+title: Media Coverage
 member:
   - image: /images/politico_logo.jpg
   - image: images/eweek_logo.jpg
