@@ -2,7 +2,7 @@ enable: true
 item:
   - Date: 'Nov 9, 2017'
     Link: 'https://www.purposeeventgroup.com/events/healthimpact-midwest-2017'
-    Logo: /images/purpose-events-1.png
+    Logo: /images/0ShahidS7564.jpg
     Place: 'United States, Chicago'
     Title: HealthIMPACT Midwest 2017
   - Date: 'Nov 7, 2017'
@@ -401,8 +401,7 @@ item:
     Title: HIMSS Privacy & Security Forum
   - Date: 'Jun 4, 2014'
     Link: 'http://patientprivacyrights.org/2014-health-privacy-summit-details/'
-    Logo: >-
-      /images/3-The-4th-International-Summit-on-the-Future-of-Health-Privacy.png
+    Logo: /images/3-The-4th-International-Summit-on-the-Future-of-Health-Privacy.png
     Place: Washington in United States
     Title: The 4th International Summit on the Future of Health Privacy
   - Date: 'Jun 4, 2014'
@@ -545,8 +544,7 @@ item:
     Title: Application Management in the Mobile Era
   - Date: 'Jul 11, 2013'
     Link: 'http://tcbi.org/hcub13/'
-    Logo: >-
-      /images/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy.png
+    Logo: /images/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy.png
     Place: Denver in United States
     Title: Tenth Annual Healthcare Unbound Conference & Exhibition
   - Date: 'Jun 4, 2013'
@@ -567,8 +565,7 @@ item:
     Title: Legal and Business Guide to mHealth and Wireless Medical Technology
   - Date: 'Apr 2, 2013'
     Link: 'https://www.nvtc.org/events/geteventinfo.php?event=ARCH-9'
-    Logo: >-
-      /images/29-NVTC-Business-and-Enterprise-Architecture-Committee-Event.png
+    Logo: /images/29-NVTC-Business-and-Enterprise-Architecture-Committee-Event.png
     Place: Fairfax in United States
     Title: NVTC Business and Enterprise Architecture Committee Event
   - Date: 'Mar 23, 2013'
@@ -651,8 +648,7 @@ item:
     Title: Military Electronic Health Records Conference
   - Date: 'Jul 19, 2012'
     Link: 'http://tcbi.org/hcub13/'
-    Logo: >-
-      /images/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy1.png
+    Logo: /images/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy1.png
     Place: San Francisco in United States
     Title: Healthcare Unbound 2012
   - Date: 'Jul 16, 2012'
@@ -672,8 +668,7 @@ item:
     Title: Drupal Government Days
   - Date: 'Apr 18, 2012'
     Link: 'http://closer.scitevents.org/'
-    Logo: >-
-      /images/52-2nd-Conference-on-Cloud-Computing-and-Services-Science.png
+    Logo: /images/52-2nd-Conference-on-Cloud-Computing-and-Services-Science.png
     Place: Porto in Portugal
     Title: 2nd Conference on Cloud Computing and Services Science
   - Date: 'Mar 27, 2012'
@@ -714,8 +709,7 @@ item:
     Title: OSCON 2011
   - Date: 'Jul 11, 2011'
     Link: 'http://www.tcbi.org/index.php?conference=bi2011'
-    Logo: >-
-      /images/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy2.png
+    Logo: /images/22-Tenth-Annual-Healthcare-Unbound-Conference-Exhibition-Copy2.png
     Place: San Diego in United States
     Title: Business Intelligence & Analytics for Healthcare Conference & Exhibition
   - Date: 'Jun 22, 2011'
@@ -746,7 +740,6 @@ item:
   - Date: 'May 18, 2009'
     Link: >-
       http://www.linkedin.com/groups/Virginia-Conference-on-Health-Information-1964437/about
-    Logo: >-
-      /images/80-Virginia-Conference-on-Health-Information-Technology.png
+    Logo: /images/80-Virginia-Conference-on-Health-Information-Technology.png
     Place: Tysons Corner in United States
     Title: Virginia Conference on Health Information Technology
