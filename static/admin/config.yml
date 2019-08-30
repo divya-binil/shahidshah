@@ -98,7 +98,7 @@ collections: # A list of collections the CMS should be able to edit
                 - {label: "Name", name: "Name", widget: "string"}
                 - {label: "Title", name: "Title", widget: "string"} 
                 - {label: "Date", name: "Date", widget: "string"}
-                - {label: "Logo", name: "Logo", widget: "image"} 
+                - {label: "Logo Link", name: "Logolink", widget: "string"} 
                 - {label: "Link", name: "Link", widget: "string"}
       - file: "data/en/gallery.yml"
         label: "Gallery"
@@ -142,6 +142,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "endorsement"
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
             - label : "Endorsement"
               name  : "item"
               widget: "list"
@@ -206,4 +207,3 @@ collections: # A list of collections the CMS should be able to edit
               widget: "list"
               fields:               
                 - {label: "Image", name: "image", widget: "image"} 
-                                         

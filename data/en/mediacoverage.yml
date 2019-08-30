@@ -2,7 +2,7 @@ enable: false
 item:
   - Date: 'Jun 5, 2014'
     Link: 'https://newsle.com/article/0/156613012'
-    Logo: 'https://www.google.com/s2/favicons?domain=http://www.politico.com/'
+    Logolink: 'https://www.google.com/s2/favicons?domain=http://www.politico.com/'
     Name: >-
       Apple and Epic:- A privacy disaster?DeSalvo introduces interoperability
       roadmap-We stand amended
@@ -10,7 +10,7 @@ item:
   - Date: 'May 19, 2014'
     Link: >-
       https://www.itbusinessedge.com/blogs/integration/three-integration-lessons-health-care-it-still-needs-to-learn.html
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://itbusinessedge.com?defaulticon=lightpng
     Name: |
       Three Integration Lessons Health Care IT Still Needs to Learn
@@ -18,7 +18,7 @@ item:
   - Date: 'May 14, 2014'
     Link: >-
       http://www.ihealthbeat.org/perspectives/2014/quit-dreaming-about-interoperability-and-focus-on-enterprise-systems-integration
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://ihealthbeat.org?defaulticon=lightpng
     Name: >
       Quit Dreaming About Interoperability and Focus on Enterprise Systems
@@ -27,7 +27,7 @@ item:
   - Date: 'May 14, 2014'
     Link: >-
       https://www.varinsights.com/doc/smart-var-healthcare-keynote-keys-to-success-in-the-healthcare-vertical-0001
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://bsminfo.com?defaulticon=lightpng
     Name: >
       Quit Dreaming About Interoperability and Focus on Enterprise Systems
@@ -36,7 +36,7 @@ item:
   - Date: 'May 5, 2014'
     Link: >-
       www.cruxialcio.com/apple-hires-medical-tech-experts-possible-iwatch-launch-nears-7175
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://cruxialcio.com?defaulticon=lightpng
     Name: |
       Apple Hires Medical Tech Experts As Possible iWatch Launch Nears
@@ -44,14 +44,14 @@ item:
   - Date: 'Feb 27, 2014'
     Link: >-
       https://www.cruxialcio.com/marketing-technology-vendors-emma-and-emarsys-arrive-in-australia-to-deliver-their-products-and-services-to-its-mid-market/
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://surescripts.com?defaulticon=lightpng
     Name: |
       HIMSS Intelligent Healthcare Panel
     Title: surescripts.com
   - Date: 'Feb 25, 2014'
     Link: 'https://www.healthcareitnews.com/news/discussion-flows-yourturn-sessions'
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://healthcareitnews.com?defaulticon=lightpng
     Name: |
       Discussion flows at YourTurn sessions
@@ -59,7 +59,7 @@ item:
   - Date: 'Feb 21, 2014'
     Link: >-
       http://www.informationweek.com/healthcare/mobile-and-wireless/3d-printing-reshapes-healthcare/d/d-id/1113893?
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://informationweek.com?defaulticon=lightpng
     Name: |
       3D Printing Reshapes Healthcare
@@ -67,35 +67,35 @@ item:
   - Date: 'Feb 20, 2014'
     Link: >-
       http://healthworkscollective.com/shahidshah/150266/keeping-medical-device-designs-relevant-big-data-world-migrating-outcomes-driven-p
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://healthcareitnews.com?defaulticon=lightpng
     Name: |
       Keeping Medical Device Designs Relevant in a Big Data World
     Title: healthworkscollectiv...
   - Date: 'Feb 17, 2014'
     Link: 'http://www.healthcarefinancenews.com/video/backup-v-archiving'
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://healthcarefinancenews.com?defaulticon=lightpng
     Name: |
       Backup v. Archiving
     Title: healthcarefinancenew...
   - Date: 'Feb 11, 2014'
     Link: 'http://www.healthcareitnews.com/news/visit-himss-analytics-booth'
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://healthcareitnews.com?defaulticon=lightpng
     Name: |
       Visit the HIMSS Analytics booth
     Title: healthcareitnews.com
   - Date: 'Feb 10, 2014'
     Link: 'http://www.healthcarefinancenews.com/video/healthcare-data-explosion'
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://healthcarefinancenews.com?defaulticon=lightpng
     Name: |
       The Healthcare Data Explosion
     Title: healthcarefinancenew...
   - Date: 'Jan 24, 2014'
     Link: 'http://www.politico.com/morningtech/0114/morningtech12809.html'
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://politico.com?defaulticon=lightpng
     Name: |
       Immigration back on GOP agenda PCLOB wary of Obama timeline on NSA reform
@@ -103,7 +103,7 @@ item:
   - Date: 'Aug 10, 2013'
     Link: >-
       http://www.eweek.com/enterprise-apps/health-care-it-chiefs-departure-leaves-gap-in-ehr-leadership/
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://eweek.com?defaulticon=lightpng
     Name: |
       Health Care IT Chief’s Departure Leaves Gap in EHR Leadership
@@ -111,7 +111,7 @@ item:
   - Date: 'May 29, 2013'
     Link: >-
       http://www.eweek.com/innovation/obamacare-open-data-could-drive-health-it-innovation/
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://eweek.com?defaulticon=lightpng
     Name: |
       Obamacare, Open Data Could Drive Health IT Innovation
@@ -119,7 +119,7 @@ item:
   - Date: 'May 20, 2013'
     Link: >-
       http://www.eweek.com/developer/hl7-developing-new-health-care-messaging-standard/
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://eweek.com?defaulticon=lightpng
     Name: |
       HL7 Developing New Health Care Messaging Standard
@@ -127,7 +127,7 @@ item:
   - Date: 'Nov 16, 2012'
     Link: >-
       http://www.eweek.com/storage/smartmetric-launches-biometric-usb-key-ring-to-store-ehrs/
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://eweek.com?defaulticon=lightpng
     Name: |
       SmartMetric Launches Biometric USB Key Ring to Store EHRs
@@ -135,7 +135,7 @@ item:
   - Date: 'Oct 31, 2012'
     Link: >-
       http://www.eweek.com/enterprise-apps/big-data-analytics-hie-could-aid-hurricane-sandy-recovery-efforts/
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://eweek.com?defaulticon=lightpng
     Name: |
       Big Data Analytics, HIE Could Aid Hurricane Sandy Recovery Efforts
@@ -143,7 +143,7 @@ item:
   - Date: 'Oct 19, 2012'
     Link: >-
       http://www.eweek.com/enterprise-apps/obama-administration-seeks-investigation-into-billing-fraud-due-to-ehrs/
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://eweek.com?defaulticon=lightpng
     Name: |
       Obama Administration Seeks Investigation Into Billing Fraud due to EHRs
@@ -151,7 +151,7 @@ item:
   - Date: 'Jun 5, 2012'
     Link: >-
       http://www.eweek.com/c/a/Health-Care-IT/JPMorgan-Chase-Unit-Buys-MModal-Clinical-Documentation-Vendor-143759/?kc=rss
-    Logo: >-
+    Logolink: >-
       https://www.google.com/s2/favicons?domain=http://eweek.com?defaulticon=lightpng
     Name: >
       JPMorgan Chase Unit Buys MModal Clinical Documentation Vendor Health Care
