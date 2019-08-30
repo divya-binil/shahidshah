@@ -2,11 +2,11 @@ enable: true
 title: 'Bio Abstracts for publications, interviews, and speaking engagements'
 picturetext: Pictures
 subtext: Please take your pick and crop as necessary.
-image1: /images/0ShahidS7564.jpg
+image1: /images/test2.jpg
 image1Label: Print or Online (Jumbo)
-image2: /images/portrait-ibm-insight-2015.jpg
+image2: /images/test2.jpg
 image2Label: Print or Online (Medium)
-image3: /images/mugshot_2013_1-150x190.jpg
+image3: /images/test2.jpg
 image3Label: Online (Medium)
 item:
   - para1: >-
