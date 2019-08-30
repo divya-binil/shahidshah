@@ -109,7 +109,6 @@ collections: # A list of collections the CMS should be able to edit
               widget: "list"
               fields:
                 - {label: "Image", name: "image", widget: "image"} 
-                - {label: "Link", name: "link", widget: "string"}
       - file: "data/en/conference.yml"
         label: "Conference"
         name:  "conference"
@@ -120,7 +119,6 @@ collections: # A list of collections the CMS should be able to edit
               widget: "list"
               fields:
                 - {label: "Image", name: "image", widget: "image"} 
-                - {label: "Link", name: "link", widget: "string"}
       - file: "data/en/exp.yml"
         label: "Experience"
         name:  "experience"
