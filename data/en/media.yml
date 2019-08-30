@@ -1,6 +1,6 @@
 enable: true
 member:
-  - image: images/politico_logo.jpg
+  - image: /images/0ShahidS7564.jpg
   - image: images/eweek_logo.jpg
   - image: images/IW_logo.jpg
   - image: images/o_reilly_logo.jpg
