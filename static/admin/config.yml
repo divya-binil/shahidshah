@@ -52,6 +52,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "Recommendations"
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
             - label : "Recommendations"
               name  : "item"
               widget: "list"
@@ -104,6 +105,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "gallery"
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
             - label : "Gallery"
               name  : "item"
               widget: "list"
@@ -114,6 +116,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "conference"
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
             - label : "Conference"
               name  : "item"
               widget: "list"
@@ -124,6 +127,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "experience"
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
             - label : "Experience"
               name  : "item"
               widget: "list"
@@ -170,6 +174,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "speakingschedule"
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
             - label : "Speaking Schedule"
               name  : "item"
               widget: "list"
@@ -184,6 +189,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "media"
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
             - label : "Media"
               name  : "member"
               widget: "list"
@@ -194,6 +200,7 @@ collections: # A list of collections the CMS should be able to edit
         name:  "speakingengagements"
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
             - label : "Past Speaking Engagements "
               name  : "member"
               widget: "list"
