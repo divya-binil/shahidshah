@@ -7,7 +7,7 @@ date: 2009-07-27T17:17:00.000Z
 categories:
   - Shahid Shah Architecture &amp; Engineering Blog
 ---
-ee Weve all heard how a substantial number of software projects fail or are cancelled routinely. For years developers have said if only the requirements were right, the software would have worked right. Intuitively we all understand that the better the user community (business users in many cases) can get the product defined the more likely the software will work. Agile processes and methodologies insist that the best way to do this is to show early and show often the fruits of the development labor but hold back on writing pages and pages of specifications. 
+Weve all heard how a substantial number of software projects fail or are cancelled routinely. For years developers have said if only the requirements were right, the software would have worked right. Intuitively we all understand that the better the user community (business users in many cases) can get the product defined the more likely the software will work. Agile processes and methodologies insist that the best way to do this is to show early and show often the fruits of the development labor but hold back on writing pages and pages of specifications. 
 
 A new category of software, known as prototyping, application simulation, or application modeling tools, allow end users to create quick prototypes and workflows that can be handed to developers to do the actual coding. 
 
