@@ -1,16 +1,19 @@
 enable: true
-title: Recommendations
 item:
-  - clientDesignation: Founder & CEO at Clinical Referral Directories and Imagine Media Partners
-    clientDuration: 'January 16, 2014, Tolga U. worked with Shahid but at different companies'
-    clientName: Tolga U. Ural
+  - clientDesignation: >-
+      testFounder & CEO at Clinical Referral Directories and Imagine Media
+      Partners
+    clientDuration: >-
+      testJanuary 16, 2014, Tolga U. worked with Shahid but at different
+      companies
+    clientName: ' testTolga U. Ural'
     clientThumb: /images/clients-1.jpg
     quote: >-
-      I had the pleasure of attending Shahid's social media webinar and found it
-      to be very informative, full of great tips for next month's HIMMS. His
-      direct style really makes you take a good look at where you stand to
-      improve your messaging and how best to prioritize solving the customer's
-      problems and see things from their perspective.
+      test I had the pleasure of attending Shahid's social media webinar and
+      found it to be very informative, full of great tips for next month's
+      HIMMS. His direct style really makes you take a good look at where you
+      stand to improve your messaging and how best to prioritize solving the
+      customer's problems and see things from their perspective.
   - clientDesignation: Serial Entrepreneur
     clientDuration: 'December 1, 2013, Shahid worked with Jeff in the same group'
     clientName: Jeff Lamkin
