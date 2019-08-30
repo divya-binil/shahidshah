@@ -29,13 +29,13 @@
                     {{ $url := printf "%s" .Permalink | absLangURL }}
                     {{ $body := print "\n\n" $url "\n" }}
                     <div id="sharing">
-                        <a href="http://www.facebook.com/sharer.php?u={{ $url }}" class="facebook" aria-label="share on Facebook">
+                        <a href="http://www.facebook.com/sharer.php?u={{ $url }}" target="_blank" class="facebook" aria-label="share on Facebook">
                         <img src="/images/facebook_counter.png" width="60px" >
                         </a>
-                        <a href="http://twitter.com/share?url={{ $url }}&text={{ $title }}&via={{with .Site.Social.twitter }}{{ . }}{{ end }}" class="twitter" aria-label="share on Twitter">
+                        <a href="http://twitter.com/share?url={{ $url }}&text={{ $title }}&via={{with .Site.Social.twitter }}{{ . }}{{ end }}" target="_blank" class="twitter" aria-label="share on Twitter">
                             <img src="/images/twitter_counter.png" width="60px" >
                         </a>
-                        <a href="mailto:?subject=Check%20out%20{{ $title }}.&body={{ $body }}" class="twitter" aria-label="share on Email">
+                        <a href="mailto:?subject=Check%20out%20{{ $title }}.&body={{ $body }}" target="_blank" class="twitter" aria-label="share on Email">
                             <img src="/images/email_counter.png" width="60px" >
                         </a>
                     </div>
