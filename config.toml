@@ -40,7 +40,6 @@ disableLanguages = ["fr", "ja"]
     dateFormat = "January 2, 2006"
 
     home = "Home"
-    logo = "images/logo.png"
     menufixed = false
 
     

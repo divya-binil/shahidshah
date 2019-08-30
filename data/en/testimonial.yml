@@ -3,7 +3,7 @@ item:
   - clientDesignation: Founder & CEO at Clinical Referral Directories and Imagine Media Partners
     clientDuration: 'January 16, 2014, Tolga U. worked with Shahid but at different companies'
     clientName: Tolga U. Ural
-    clientThumb: images/client-logo/clients-1.jpg
+    clientThumb: images/clients-1.jpg
     quote: >-
       I had the pleasure of attending Shahid's social media webinar and found it
       to be very informative, full of great tips for next month's HIMMS. His
@@ -13,7 +13,7 @@ item:
   - clientDesignation: Serial Entrepreneur
     clientDuration: 'December 1, 2013, Shahid worked with Jeff in the same group'
     clientName: Jeff Lamkin
-    clientThumb: images/client-logo/clients-2.jpg
+    clientThumb: images/clients-2.jpg
     quote: >
       Shahid is a man you can count on! When times get tough and you look around
       to see who will fight the fight with you, Shahid will be by your side. He
@@ -24,7 +24,7 @@ item:
   - clientDesignation: Senior Technology Architect at Accenture
     clientDuration: 'May 10, 2013, Eduardo worked with Shahid but at different companies'
     clientName: Eduardo G.
-    clientThumb: images/client-logo/clients-3.jpg
+    clientThumb: images/clients-3.jpg
     quote: >
       I met Shahid at the Dell Think Tank on Healthcare earlier this year. He
       was very knowledgeable about the economics behind HITECH and the
@@ -35,7 +35,7 @@ item:
   - clientDesignation: Cynical Blowhard Healthcare IT Blogger
     clientDuration: 'June 23, 2016, Shahid worked with Tim in different groups'
     clientName: Tim Histalk
-    clientThumb: images/client-logo/no-image.jpg
+    clientThumb: images/no-image.jpg
     quote: >
       Like Tim, I'm a health IT blogger and I read HIStalk because the writing
       is prescient, accurate, useful, and relevant. Getting healthcare
@@ -48,7 +48,7 @@ item:
   - clientDesignation: 'SVP Care Logistics, a Jackson Healthcare Company'
     clientDuration: 'November 12, 2014, Stephen worked with Shahid in the same group'
     clientName: Stephen Passalacqua
-    clientThumb: images/client-logo/clients-5.jpg
+    clientThumb: images/clients-5.jpg
     quote: >
       As simplifyMD, a SaaS based EHR, moved from its seed startup to venture
       funded growth and scale phases we asked Stephen to lead us as our COO. His
@@ -63,7 +63,7 @@ item:
   - clientDesignation: Product Manager at ChronicCareIQ
     clientDuration: 'October 14, 2013, Shahid was senior to Susan but didn’t manage directly'
     clientName: Susan Beecham
-    clientThumb: images/client-logo/clients-6.jpg
+    clientThumb: images/clients-6.jpg
     quote: >
       Susan is one of those rare individuals in business that just loves working
       with customers, especially physician offices and their staff. She was a

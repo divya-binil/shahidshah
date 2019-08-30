@@ -3,7 +3,7 @@ item:
   - clientDesignation: Founder & CEO at Clinical Referral Directories and Imagine Media Partners
     clientDuration: Jan 2016 - Present | 1 yr 7 mos Greater New York City Area
     clientName: 'Cofounder, Chairman of the Board Citus Health'
-    clientThumb: images/client-logo/citushealth.png
+    clientThumb: images/citushealth.png
     quote: >-
       Citus Health is bringing breakthrough technology to home healthcare. It is
       our mission to modernize an industry saddled with outdated processes, and
@@ -12,7 +12,7 @@ item:
   - clientDesignation: Serial Entrepreneur
     clientDuration: 'December 1, 2013, Shahid worked with Jeff in the same group'
     clientName: Founder Netspective Communications
-    clientThumb: images/client-logo/netspective-org.png
+    clientThumb: images/netspective-org.png
     quote: >
       Netspective is a provider of technology strategy, sales and marcomm
       expertise, as well as architecture and engineering solutions to government
@@ -23,7 +23,7 @@ item:
     clientName: >-
       Entrepreneur in Residence and Strategic Adviser for the Innovation Lab
       America's Health Insurance Plans (AHIP)
-    clientThumb: images/client-logo/ahip-logo.png
+    clientThumb: images/ahip-logo.png
     quote: >
       Serving as Strategic Adviser and Entrepreneur-in-Residence (EIR) for
       AHIP's Innovation Lab ("AHIP IL"). AHIP's IL is a 26,000 sq ft facility
@@ -36,14 +36,14 @@ item:
   - clientDesignation: 'Chairman, Strategic Board of Advisors'
     clientDuration: May 2012 – Jan 2016 | 3 years 9 Months Washington D.C. Metro Area
     clientName: OSEHRA (Open Source Electronic Health Record Alliance)
-    clientThumb: images/client-logo/OSEHRA.png
+    clientThumb: images/OSEHRA.png
     quote: >
       Advising new DoD and VA founded organization on formation of open
       innovations and open source software for healthcare industry.
   - clientDesignation: co-Founder and CTO
     clientDuration: May 2007 – Dec 2013 | 6 years 8 Months Greater Atlanta Area
     clientName: simplifyMD
-    clientThumb: images/client-logo/2b1e0d4-1.png
+    clientThumb: images/2b1e0d4-1.png
     quote: >
       Co-founded and served as CTO of this digital healthcare startup that
       created a Meaningful Use Certified Electronic Health Records (EHR)
@@ -52,7 +52,7 @@ item:
   - clientDesignation: SVP Healthcare Technology Strategy
     clientDuration: Sep 2002 – May 2004 | 1 years 9 Months Washington D.C. Metro Area
     clientName: Comsys
-    clientThumb: images/client-logo/2429d40-1.png
+    clientThumb: images/2429d40-1.png
     quote: >
       Helped develop technology strategy for a new healthcare products and
       services division of COMSYS after the purchase of Physia intellectual

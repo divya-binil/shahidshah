@@ -1,24 +1,24 @@
 enable: true
 item:
-  - image: /images/conference/dsc_1582.jpg
-    link: /images/conference/dsc_1582.jpg
-  - image: /images/conference/dsc_1504.jpg
-    link: /images/conference/dsc_1504.jpg
-  - image: /images/conference/dsc_1503.jpg
-    link: /images/conference/dsc_1503.jpg
-  - image: /images/conference/dsc_1599.jpg
-    link: /images/conference/dsc_1599.jpg
-  - image: /images/conference/dsc_1567.jpg
-    link: /images/conference/dsc_1567.jpg
-  - image: /images/conference/dsc_1586.jpg
-    link: /images/conference/dsc_1586.jpg
-  - image: /images/conference/dsc_1600.jpg
-    link: /images/conference/dsc_1600.jpg
-  - image: /images/conference/dsc_1564.jpg
-    link: /images/conference/dsc_1564.jpg
-  - image: /images/conference/dsc_1584.jpg
-    link: /images/conference/dsc_1584.jpg
-  - image: /images/conference/dsc_1573-1.jpg
-    link: /images/conference/dsc_1573-1.jpg
-  - image: /images/conference/dsc_1514.jpg
-    link: /images/conference/dsc_1514.jpg
+  - image: /images/dsc_1582.jpg
+    link: /images/dsc_1582.jpg
+  - image: /images/dsc_1504.jpg
+    link: /images/dsc_1504.jpg
+  - image: /images/dsc_1503.jpg
+    link: /images/dsc_1503.jpg
+  - image: /images/dsc_1599.jpg
+    link: /images/dsc_1599.jpg
+  - image: /images/dsc_1567.jpg
+    link: /images/dsc_1567.jpg
+  - image: /images/dsc_1586.jpg
+    link: /images/dsc_1586.jpg
+  - image: /images/dsc_1600.jpg
+    link: /images/dsc_1600.jpg
+  - image: /images/dsc_1564.jpg
+    link: /images/dsc_1564.jpg
+  - image: /images/dsc_1584.jpg
+    link: /images/dsc_1584.jpg
+  - image: /images/dsc_1573-1.jpg
+    link: /images/dsc_1573-1.jpg
+  - image: /images/dsc_1514.jpg
+    link: /images/dsc_1514.jpg

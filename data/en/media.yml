@@ -1,10 +1,10 @@
 enable: true
 member:
-  - image: images/media/politico_logo.jpg
-  - image: images/media/eweek_logo.jpg
-  - image: images/media/IW_logo.jpg
-  - image: images/media/o_reilly_logo.jpg
-  - image: images/media/mddi_logo.jpg
-  - image: images/media/crux_logo.jpg
-  - image: images/media/federal_news.jpg
-  - image: images/media/healthcare_logo.jpg
+  - image: images/politico_logo.jpg
+  - image: images/eweek_logo.jpg
+  - image: images/IW_logo.jpg
+  - image: images/o_reilly_logo.jpg
+  - image: images/mddi_logo.jpg
+  - image: images/crux_logo.jpg
+  - image: images/federal_news.jpg
+  - image: images/healthcare_logo.jpg

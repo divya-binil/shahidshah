@@ -1,7 +1,7 @@
 enable: true
 title: Past Speaking Engagements
 member:
-  - image: images/speaking/MITSloan.png
-  - image: images/speaking/scansource.png
-  - image: images/speaking/imn_logo.png
-  - image: images/speaking/healthcare.png
+  - image: images/MITSloan.png
+  - image: images/scansource.png
+  - image: images/imn_logo.png
+  - image: images/healthcare.png
