@@ -8,26 +8,30 @@
         <div class="row">                       
             {{ "<!-- Contact Form -->" | safeHTML }}
             <div class="contact-form col-12 col-md-6 ">
-                <form id="contact-form" method="post" action="#" role="form">
+                <form id="contact-form" class="gform pure-form pure-form-stacked" method="post" action="https://script.google.com/macros/s/AKfycbw4hYkJDaX7ou6yUmaUB04LnUOcn4tnGn_xrUsHnA/exec" role="form">
+                    <div style="display:none" class="thankyou_message">      
+                        <h3>Thanks for contacting! I will get back to you soon!</h3>
+                    </div> 
                     <div class="form-group">
-                        <input type="text" placeholder="Full Name" class="form-control" name="name" id="name">
+                        <input type="text" placeholder="Full Name" class="form-control" name="name" id="name" required > 
                     </div>
                     <div class="form-group">
-                        <input type="email" placeholder="Email" class="form-control" name="email" id="email">
+                        <input type="email" placeholder="Email" class="form-control" name="email" id="email" required>
                     </div>
                     <div class="form-group">
-                        <input type="text" placeholder="Event Name" class="form-control" name="eventname" id="eventname">
+                        <input type="text" placeholder="Event Name" class="form-control" name="eventname" id="eventname" required>
                     </div>
                     <div class="form-group">
-                        <input type="text" placeholder="Event Location" class="form-control" name="eventlocation" id="eventlocation">
+                        <input type="text" placeholder="Event Location" class="form-control" name="eventlocation" id="eventlocation" required>
                     </div>
                     <div class="form-group">
-                        <textarea rows="6" placeholder="Event Details" class="form-control" name="eventdetails" id="eventdetails"></textarea>
+                        <textarea rows="6" placeholder="Event Details" class="form-control" name="eventdetails" id="eventdetails" required ></textarea>
                     </div>
                     <div id="cf-submit">
                         <input type="submit" id="contact-submit" class="btn btn-main" value="Send">
                     </div>
                 </form>
+                <script data-cfasync="false" src="/js/form-submission-handler.js"></script>
             </div>
         </div>      
     </div>
