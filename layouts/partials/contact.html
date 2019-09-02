@@ -8,10 +8,7 @@
         <div class="row">                       
             {{ "<!-- Contact Form -->" | safeHTML }}
             <div class="contact-form col-12 col-md-6 ">
-                <form id="contact-form" class="gform pure-form pure-form-stacked" method="post" action="https://script.google.com/macros/s/AKfycbw4hYkJDaX7ou6yUmaUB04LnUOcn4tnGn_xrUsHnA/exec" role="form">
-                    <div style="display:none" class="thankyou_message">      
-                        <h3>Thanks for contacting! I will get back to you soon!</h3>
-                    </div> 
+                <form id="contact-form"  method="post" action="https://formspree.io/divya.ts@citrusinformatics.com" role="form">
                     <div class="form-group">
                         <input type="text" placeholder="Full Name" class="form-control" name="name" id="name" required > 
                     </div>
@@ -31,7 +28,6 @@
                         <input type="submit" id="contact-submit" class="btn btn-main" value="Send">
                     </div>
                 </form>
-                <script data-cfasync="false" src="/js/form-submission-handler.js"></script>
             </div>
         </div>      
     </div>
