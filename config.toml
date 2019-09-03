@@ -53,7 +53,13 @@ disableLanguages = ["fr", "ja"]
         targetst = "_blank"
         btnURL  = "https://twitter.com/ShahidNShah"
         btnURL2  = "contact/"
-          
+
+    # Speaker Decks slider Section
+    [Languages.en.params.speakerdeck]
+        enable  = true
+        title   = "Speaker Decks"
+
+
     # Blog Section On Homepage
     [Languages.en.params.blog]
         enable  = true

@@ -1,0 +1,43 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.speakerdecks }}
+{{ if .enable }}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<section class="speakerdecks section bg-gray" id="speakerdecks">
+    <div class="container">
+        <div class="col-md-5">
+            <h2>{{ .title }}</h2>
+            <div class="row">         
+                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">             
+                    <div class="carousel-inner">
+                        {{ range .item }}
+                        <div class="carousel-item {{.active}}">
+                            <img class="d-block w-100" src="{{.image}}" alt="First slide">
+                        </div>  
+                        {{ end }}              
+                    </div>           
+                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>        
+        <div class="read_more_p col-sm-12">
+            <label class="col-sm-3 control-label">More on </label>
+            <div class="col-sm-offset-3">
+            <span style="padding-right:15px; white-space:nowrap;"><a href="http://speakerdeck.com/shah/" data-wpel-link="external" rel="external noopener noreferrer"><img src="http://shahidshah.com/wp-content/uploads/2014/05/SpeakerDeck.png" border="0"> SpeakerDeck.com</a></span>
+            <span style="padding-right:15px;white-space:nowrap;"><a href="http://www.slideshare.net/ShahidNShah/" data-wpel-link="external" rel="external noopener noreferrer"><img src="http://shahidshah.com/wp-content/uploads/2014/05/authorstream-icon.jpg" border="0"> SlideShare.com</a></span>
+            <span style="padding-right:6px;white-space:nowrap;"><a href="http://www.authorstream.com/ShahidNShah/" data-wpel-link="external" rel="external noopener noreferrer"><img src="http://shahidshah.com/wp-content/uploads/2014/05/SlideShare.png" border="0"> AuthorStream.com</a></span>
+            <span style="padding-right:15px;white-space:nowrap;"><a href="https://www.netspective.com/about-us/netspective-tv/" data-wpel-link="external" rel="external noopener noreferrer"><img src="http://shahidshah.com/wp-content/uploads/2014/05/netspective.png" border="0"> NetspectiveTV</a></span>
+            </div>
+        </div>        
+    </div>
+</section>
+{{ "<!-- End About section -->" | safeHTML }}
+{{ end }}  
+{{ end }}  
