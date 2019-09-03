@@ -24,11 +24,11 @@
         </div>         
         <p class="picclass">{{ .picturetext }}</p>        
         <p>{{ .subtext }}</p>        
-        <img src="{{ .image1 }}" alt="image" width="300" height="204">
+        <a href="{{ .image1 }}" target="_blank"><img src="{{ .image1 }}" alt="image" width="300" height="204"><a>
         <p>{{ .image1Label }}</p>
-        <img src="{{ .image2 }}" alt="image" width="150" height="225">
+        <a href="{{ .image2 }}" target="_blank"><img src="{{ .image2 }}" alt="image" width="150" height="225"><a>
         <p>{{ .image2Label }}</p>
-        <img src="{{ .image3 }}" alt="image" width="150" height="225">
+        <a href="{{ .image3 }}" target="_blank"><img src="{{ .image3 }}" alt="image" width="150" height="225"><a>
         <p>{{ .image3Label }}</p>
     </div>
 {{ end }}
