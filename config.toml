@@ -54,11 +54,6 @@ disableLanguages = ["fr", "ja"]
         btnURL  = "https://twitter.com/ShahidNShah"
         btnURL2  = "contact/"
 
-    # Speaker Decks slider Section
-    [Languages.en.params.speakerdeck]
-        enable  = true
-        title   = "Speaker Decks"
-
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
@@ -201,7 +196,7 @@ disableLanguages = ["fr", "ja"]
         weight  = 4
     [[menu.part1]]
         name    = "Social Media"
-        url     = "#"
+        url     = "https://www.linkedin.com/in/ShahidShah"
         weight  = 5
     [[menu.part1]]
         name    = "Videos"
