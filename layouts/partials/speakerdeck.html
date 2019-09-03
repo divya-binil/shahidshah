@@ -14,7 +14,7 @@
                     <div class="carousel-inner">
                         {{ range .item }}
                         <div class="carousel-item {{.active}}">
-                            <img class="d-block w-100" src="{{.image}}" alt="First slide">
+                           <a href="{{ .link }}" target="_blank"> <img class="d-block w-100" src="{{.image}}" alt="First slide"></a>
                         </div>  
                         {{ end }}              
                     </div>           
