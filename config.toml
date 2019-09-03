@@ -168,7 +168,7 @@ disableLanguages = ["fr", "ja"]
         url     = "/contact"
         weight  = 1
     [[menu.quicklink]]
-        name    = "Terms & Conditionsbout"
+        name    = "Terms & Conditions"
         url     = "#"
         weight  = 2
     [[menu.quicklink]]
