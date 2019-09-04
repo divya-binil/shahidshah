@@ -98,6 +98,7 @@
 
 <div  id="contactpopup" class="contact-form col-12 col-md-6 ">
     <form id="contact-form"  method="post" action="https://formspree.io/divya.ts@citrusinformatics.com" role="form">
+        <h2 class="h2_heading">Invite me to speak at your event</h2>
         <div class="form-group">
             <input type="text" placeholder="Full Name" class="form-control" name="name" id="name" required > 
         </div>
@@ -119,53 +120,3 @@
     </form>
 </div>
 
-<script>
-(function(){
-  $('html').addClass('js');
-  
-  var contactForm = {
-    container: $('#contactpopup'),
-    config: {
-      effect: 'slideToggle',
-      speed: 200
-    },
-    
-    init: function(config){
-      $.extend(this.config, config);
-      
-      $('#c-btn').on('click', this.show);
-    },
-
-    show: function(){
-      var cf = contactForm,
-          container = cf.container,
-          config = cf.config;
-                    
-
-      if(container.is(':hidden')){
-        cf.close.call(container);
-        container[config.effect]
-        (config.speed);
-      }
-    },
-
-    close: function(){
-      var $this = $('#contactpopup'); 
-      
-      if($this.find('span.close').length) return;
-
-      $('<span class=close>-</span>')
-        .prependTo(this)
-        .on('click', function(){
-        $this[contactForm.config.effect](contactForm.config.speed);
-      })
-    }
-  };
-
-contactForm.init({
-  effect: 'fadeToggle',
-  speed: 200
-});
-})();
-
-</script>
