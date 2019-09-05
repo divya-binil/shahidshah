@@ -196,7 +196,7 @@ disableLanguages = ["fr", "ja"]
         weight  = 4
     [[menu.part1]]
         name    = "Social Media"
-        url     = "https://www.linkedin.com/in/ShahidShah"
+        url     = "#"
         weight  = 5
     [[menu.part1]]
         name    = "Videos"

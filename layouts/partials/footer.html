@@ -13,7 +13,7 @@
                 <div class="col-sm-4 col-md-4 col-lg-4">
                    <ul>
                         {{ range .Site.Menus.service }}
-                        <li><a href="{{ .URL | absLangURL }}" {{ if or (eq .Name "www.HealthcareGuy.com") (eq .Name "www.speakerdeck.com") }} target="_blank" {{ end }}>{{ .Name }}</a></li>
+                        <li><a href="{{ .URL | absLangURL }}" {{ if or (eq .Name "www.HealthcareGuy.com") (eq .Name "Social Media") (eq .Name "www.speakerdeck.com") }} target="_blank" {{ end }}>{{ .Name }}</a></li>
                         {{ end }}
                     </ul>
                 </div>
