@@ -4,10 +4,10 @@
 <div class="container">
   <div class="title-page"><h2>{{ .title }}</h2></div>
   <div class="row">
-    {{ range .item }} 
+    {{ range $index, $element := .item }}
     <div class="responsive">
       <div class="gallery">
-          <img class="image-size-1" src="{{ .image }}" style="width:100%" onclick="openModal();currentSlide({{ .position }})"
+          <img class="image-size-1" src="{{ $element.image }}" style="width:100%" onclick="openModal();currentSlide({{ $index }})"
            class="hover-shadow cursor">
       </div>
     </div>
@@ -16,17 +16,17 @@
   <div id="myModal" class="modal">
     <span class="close cursor" onclick="closeModal()">&times;</span>
     <div class="modal-content">
-      {{ range .item }}
+      {{ range $index, $element := .item }}
       <div class="mySlides">
-        <img src="{{ .image }}" style="width:100%">
+        <img src="{{ $element.image }}" style="width:100%">
       </div>
       {{ end }}    
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
      <div class="row gal-thumbs">
-      {{ range .item }}
+       {{ range $index, $element := .item }}
       <div class="col-1">
-        <img class="demo cursor image-size-2" src="{{ .image }}" onclick="currentSlide({{ .position }})" alt="image">
+        <img class="demo cursor image-size-2" src="{{ $element.image }}" onclick="currentSlide({{ $index }})" alt="image">
       </div>
       {{ end }}
       </div>
@@ -36,42 +36,4 @@
 {{ end }} 
 {{ end }}   
    
-
-<script>
-function openModal() {
-  document.getElementById("myModal").style.display = "block";
-}
-
-function closeModal() {
-  document.getElementById("myModal").style.display = "none";
-}
-
-var slideIndex = 1;
-showSlides(slideIndex);
-
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
-  
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
-}
-</script>
 

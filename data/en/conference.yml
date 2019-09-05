@@ -2,24 +2,14 @@ enable: true
 title: Conference
 item:
   - image: /images/dsc_1582.jpg
-    position: 1
   - image: /images/dsc_1504.jpg
-    position: 2
   - image: /images/dsc_1503.jpg
-    position: 3
   - image: /images/dsc_1599.jpg
-    position: 4
   - image: /images/dsc_1567.jpg
-    position: 5
   - image: /images/dsc_1586.jpg
-    position: 6
   - image: /images/dsc_1600.jpg
-    position: 7
   - image: /images/dsc_1564.jpg
-    position: 8
   - image: /images/dsc_1584.jpg
-    position: 9
   - image: /images/dsc_1573-1.jpg
-    position: 10
   - image: /images/dsc_1514.jpg
-    position: 11
+

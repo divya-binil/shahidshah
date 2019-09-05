@@ -53,13 +53,12 @@
 {{ "<!-- Smooth Scroll js -->" | safeHTML }}
 <script src="{{ "plugins/smooth-scroll/dist/js/smooth-scroll.min.js" | absURL }}"></script>
 
-{{ "<!-- custom js -->" | safeHTML }}
-<script src="{{ "/js/customjs.js" | absURL }}"></script>
-
-<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">-->
-
-
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
+
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">-->
+
+{{ "<!-- custom js -->" | safeHTML }}
+<script src="{{ "/js/customjs.js" | absURL }}"></script>

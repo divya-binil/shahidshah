@@ -209,3 +209,15 @@ collections: # A list of collections the CMS should be able to edit
               fields:               
                 - {label: "Image", name: "image", widget: "image"} 
                 - {label: "Link", name: "link", widget: "string"}
+      - file: "data/en/speakerdecks.yml"
+        label: "Speaker Decks"
+        name:  "speakerdecks"
+        fields:
+            - {label: enable, name: enable, widget: boolean, default: true}
+            - {label: "Title", name: "title", widget: "string"}
+            - label : "Speaker Decks"
+              name  : "item"
+              widget: "list"
+              fields:               
+                - {label: "Image", name: "image", widget: "image"} 
+                - {label: "Link", name: "link", widget: "string"}

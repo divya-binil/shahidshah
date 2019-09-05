@@ -614,15 +614,7 @@ video{
   max-width: 1200px;
 }
 
-/* The Close Button */
-.close {
-  color: white;
-  position: absolute;
-  top: 10px;
-  right: 25px;
-  font-size: 35px;
-  font-weight: bold;
-}
+
 
 .close:hover,
 .close:focus {
@@ -934,15 +926,18 @@ div.gallery:hover {
 }
 
 
+
+/* The Close Button */
 .close {
-    position: absolute;
-    right: 20px;
-    top: -7px;
-    cursor: pointer;
-    font-weight: 400;
-    font-size: 3em;
-    color: #ee4444;
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+  background: url(/images/controls.png) no-repeat -30px 0;
 }
+
 .header-bg {
     width: 100%;
     margin: 0px;
