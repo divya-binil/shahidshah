@@ -150,7 +150,7 @@ $('.play-button').on('click', function () {
       
       if($this.find('span.close').length) return;
 
-      $('<span class=close>&nbsp</span>')
+      $('<span class=closepopup>&nbsp</span>')
         .prependTo(this)
         .on('click', function(){
         $this[contactForm.config.effect](contactForm.config.speed);
