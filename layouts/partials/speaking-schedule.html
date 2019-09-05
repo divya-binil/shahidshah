@@ -1,10 +1,10 @@
 <div class="container">
     <div class="title-page"><h2>Speaking Schedule</h2></div>
-    <div class="contact-form col-12 col-md-6 "><h3>Upcoming speaking appearances</h3></div>
+    <div class="upcoming col-12 col-md-6 "><h4 class="upcoming_head">Upcoming speaking appearances</h4></div>
     {{ if .Site.Params.contact.enable }}     
     {{ "<!-- Contact Form -->" | safeHTML }}
         <div class="contact-form col-12 col-md-6 ">
-            <h3>Invite me to speak at your event</h3>
+            <h4 class="upcoming_head">Invite me to speak at your event</h4>
             <form id="contact-form" class="gform pure-form pure-form-stacked" method="post" action="https://formspree.io/divya.ts@citrusinformatics.com" role="form">
                 <div class="form-group">
                     <input type="text" placeholder="Full Name" class="form-control" name="name" id="name" required > 
@@ -33,7 +33,7 @@
 {{ with $data.pastspeaking }}
     {{ if .enable }}
     <div class="container">
-        <p><h4>{{ .title }}</h4></p>
+        <p><h4 class="upcoming_head">{{ .title }}</h4></p>
         <div class="row">           
             {{ range .item }} 	
             {{ "<!-- speaking schedule -->" | safeHTML }}  							

@@ -207,15 +207,6 @@ div.desc {
 }
 /* Intellectual property ends */
 
-/* bios inner page starts */
-
-.title-page{
-border-bottom: 1px solid #ccc;
-padding : 10px;
-}
-
-/* bios inner page ends */
-
 /* past speaking appearences starts*/
 .media_coverage_new_wrapper {
     width: 100%;
@@ -716,12 +707,20 @@ img.hover-shadow {
 
  /* Designer style ends */
 
+.upcoming {
+    float: left;
+    padding-left: 0px;
+    padding-top: 15px;
+}
+.upcoming_head{
+    color:#561608;;
+}
 
 .recomnt{
     float:left;
 }
 .biosh3{
-   color:#561608;; 
+   color:#561608; 
 }
 .picclass{
     color:#000;
@@ -754,7 +753,8 @@ img.hover-shadow {
 .title-page {
     padding: 38px 10px 10px 0px!important;
     margin-bottom: 10px;
-    border-bottom:0px;
+    /*border-bottom:0px;*/
+    border-bottom: 1px solid #ccc;
 }
 .title-page h2 {
    margin-bottom: 0rem!important;
