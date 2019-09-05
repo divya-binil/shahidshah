@@ -89,7 +89,7 @@ $('.play-button').on('click', function () {
 
   // Additional code for the slider
   var pos = 0,
-      slides = $('.slide'),
+      slides = $('.video-slide'),
       numOfSlides = slides.length;
 
   function nextSlide(){

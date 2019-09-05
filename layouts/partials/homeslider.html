@@ -4,7 +4,7 @@
 <div class="video-slider">
     {{ range .item }} 
     {{ "<!-- slider single -->" | safeHTML }} 
-    <div class="slide">  
+    <div class="video-slide">  
         <a href="{{ .link }}"  target="_blank"><img class="video-image" src="{{ .image }}"> </a> 
         <div class="text-block">
             <h6>{{ .caption }}</h6>
