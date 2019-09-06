@@ -1,4 +1,4 @@
-baseURL = "https://shahid-shah.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
@@ -8,6 +8,7 @@ disqusShortname = "shah"
 enableRobotsTXT = true
 # google analytics tracking id
 googleAnalytics = ""
+
 enableGitInfo = false
 pygmentsCodeFences = true
 
