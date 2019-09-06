@@ -1,7 +1,7 @@
 enable: true
 title: Speaker Decks
 item:
-  - active: active
+  - active: ''
     image: /images/slide01.jpg
     link: >-
       https://speakerdeck.com/shah/opportunities-created-by-healthcares-adoption-of-ai-and-machine-learning
