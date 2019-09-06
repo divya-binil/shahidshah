@@ -8,7 +8,6 @@ disqusShortname = "shah"
 enableRobotsTXT = true
 # google analytics tracking id
 googleAnalytics = ""
-
 enableGitInfo = false
 pygmentsCodeFences = true
 
