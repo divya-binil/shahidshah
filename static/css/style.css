@@ -885,7 +885,7 @@ div.gallery:hover {
     top: 33px;
 }
 #content{
-    min-height:350px;
+    min-height:650px;
 }
 
 .rec-img {
@@ -999,6 +999,9 @@ border-radius: 5px;
 }
 .gray {
     color: #a2a2a2!important;
+}
+p {
+    color: #3c3c3c!important;
 }
 
 

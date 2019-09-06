@@ -3,7 +3,6 @@
 {{ if .enable }} 
 <div class="container">
   <div class="title-page"><h2>{{ .title }}</h2></div>
-  <div class="row">
     {{ range $index, $element := .item }}
     <div class="responsive">
       <div class="gallery">
@@ -12,7 +11,6 @@
       </div>
     </div>
     {{ end }}  
-  </div>
   <div id="myModal" class="modal">
     <span class="close cursor" onclick="closeModal()">&times;</span>
     <div class="modal-content">
