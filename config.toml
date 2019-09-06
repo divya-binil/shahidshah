@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://shahid-shah.netlify.com/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
