@@ -1,11 +1,12 @@
 enable: true
-title: Speaker Decks test
+title: Speaker Decks
 item:
-  - active: active
+  - active: ''
     image: /images/0ShahidS7564.jpg
     link: >-
-      https://123speakerdeck.com/shah/opportunities-created-by-healthcares-adoption-of-ai-and-machine-learning
-  - image: /images/slide02.jpg
+      https://speakerdeck.com/shah/opportunities-created-by-healthcares-adoption-of-ai-and-machine-learning
+  - active: active
+    image: /images/slide02.jpg
     link: 'https://speakerdeck.com/shah/what-comes-after-rest'
   - image: /images/slide03.jpg
     link: >-
