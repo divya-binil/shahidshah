@@ -1031,6 +1031,11 @@ p {
   font-weight: 800; 
 }
 
+.speaking-row .carousel-control-next, .speaking-row .carousel-control-prev {
+    bottom: 150px!important;
+}
+
+
 /* RESPONSIVE ::::::::::::::::::::::::
 MEDIA QUERRY starts :::::::::::::::::: */
 @media only screen and (max-width: 1199px) {
