@@ -1,11 +1,11 @@
 enable: true
 title: Speaker Decks
 item:
-  - active: ''
-    image: /images/0ShahidS7564.jpg
+  - active: active
+    image: /images/slide01.jpg
     link: >-
       https://speakerdeck.com/shah/opportunities-created-by-healthcares-adoption-of-ai-and-machine-learning
-  - active: active
+  - active: ''
     image: /images/slide02.jpg
     link: 'https://speakerdeck.com/shah/what-comes-after-rest'
   - image: /images/slide03.jpg
