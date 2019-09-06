@@ -215,10 +215,10 @@ collections: # A list of collections the CMS should be able to edit
         fields:
             - {label: enable, name: enable, widget: boolean, default: true}
             - {label: "Title", name: "title", widget: "string"}
-            - {label: "Active", name: "active", widget: "string"}
             - label : "Speaker Decks"
               name  : "item"
               widget: "list"
               fields:               
                 - {label: "Image", name: "image", widget: "image"} 
                 - {label: "Link", name: "link", widget: "string"}
+                - {label: "Active slide", name: "active", widget: "string"}
