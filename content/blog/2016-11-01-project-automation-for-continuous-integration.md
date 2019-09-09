@@ -1,5 +1,5 @@
 ---
-title: Project automation for continuous integration test
+title: Project automation for continuous integration
 author: Shahid Shah
 type: post
 url: /?p=54&preview=true&preview_id=54
