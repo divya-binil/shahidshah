@@ -53,8 +53,7 @@ item:
   - Date: 'Feb 21, 2014'
     Link: >-
       http://www.informationweek.com/healthcare/mobile-and-wireless/3d-printing-reshapes-healthcare/d/d-id/1113893?
-    Logolink: >-
-      https://www.google.com/s2/favicons?domain=http://informationweek.com?defaulticon=lightpng
+    image: /images/med19.png
     Name: |
       3D Printing Reshapes Healthcare
     Title: informationweek.com
@@ -79,8 +78,7 @@ item:
     Title: healthcareitnews.com
   - Date: 'Feb 10, 2014'
     Link: 'http://www.healthcarefinancenews.com/video/healthcare-data-explosion'
-    Logolink: >-
-      https://www.google.com/s2/favicons?domain=http://healthcarefinancenews.com?defaulticon=lightpng
+    image: /images/med20.png
     Name: |
       The Healthcare Data Explosion
     Title: healthcarefinancenew...
